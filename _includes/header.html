@@ -1,0 +1,26 @@
+<header id="header" class="row">
+    <div class="small-12 columns">
+        <section class="right show-for-medium-up mam">
+            <ul class="inline-list">
+                {% include nav.html %}
+            </ul>
+        </section>
+        <section class="right show-for-small">
+            <ul class="inline-list mam">
+                <li>
+                    <a class="right-off-canvas-toggle" href="#"><i class="fa fa-bars fa-lg">
+                    </i></a>
+                </li>
+            </ul>
+        </section>
+
+        <h1>{{ site.brand }}</h1>
+</header>
+
+<!-- Off Canvas Menu -->
+<aside class="right-off-canvas-menu">
+    <!-- navigation list goes here -->
+    <ul class="off-canvas-list">
+       {% include nav.html %}
+    </ul>
+</aside>

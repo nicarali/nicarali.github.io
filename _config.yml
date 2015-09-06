@@ -1,12 +1,11 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
+name : Nicarali
+brand : Nicarali
+description : "Nicarali est une association qui opère pour la création d'un réseau de bibliothèques publiques au Nicaragua."
+keyword : Nicarali, Nicaragua, bibliothèque
+url : https://drventisette.github.io
+email : drventisette@gmail.com
+github : drventisette
+author : drventisette
 analytics : UA-8418273-8
 year : 2015
 markdown : kramdown

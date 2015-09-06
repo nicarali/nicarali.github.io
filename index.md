@@ -1,56 +1,32 @@
 ---
-layout: default
-title: Welcome!
-description: This is my site. Welcome.
-keywords: github pages, Jekyll, foundation 5
+layout: main
+title: Nicarali - Accueil
+description: Bienvenue sur le site Nicarali
+keywords: Nicarali, Nicaragua, bibliothèque
 ---
 
-<h1 class="mvl">Whoa! Jekyll, Foundation 5, HTML5 boilerplate and github pages!</h1>
+Pourquoi ?
+----------
+![Peinture murale à Chagüitillo](http://nicarali.files.wordpress.com/2010/08/img11.jpg?w=500&h=332){: .right }
+En France, les projets de solidarité envers les pays plus démunis vont surtout vers les pays africains. Une histoire commune particulière, les liens que cette histoire a tissés, une communauté de langue expliquent cette préférence presque naturelle. Aussi l’Amérique hispanique n’apparaît-elle pas comme une priorité aux yeux des français. C’est une région du monde, et particulièrement l’Amérique centrale, qui est bien mal connue ici, qui ne fait l’actualité chez nous que lors de tremblements de terre, d’éruptions volcaniques ou, hélas de plus en plus fréquemment d’ouragans dévastateurs. Pourtant ces petits pays souffrent de ce désintérêt, encore accentué quand toute la communauté internationale se mobilise face à des tragédies de l’ampleur de celle de Haïti en 2010 par exemple. Or, il nous semble, à nous, membres fondateurs de NICARALI, qu’il nous faut penser au développement des populations démunies à moyen et à long terme, en oeuvrant pour un accès efficace à l’éducation et à la culture par la lecture.
+
+Pourquoi le Nicaragua ?
+-----------------------
+![L'Amérique Centrale](http://nicarali.files.wordpress.com/2010/08/mapa2.jpg?w=257&h=228){: .left }
+La population du Nicaragua est très jeune : en 2008, 50,6% de la population, (soit 2,9 millions de nicaraguayens) a moins de dix-neuf ans. 56,7% de la population enfantine vit dans des conditions de pauvreté (24%) ou d’extrême pauvreté (32,7%). 27% des enfants soufrent de dénutrition chronique, seuls 9% d’entre eux vivent dans des conditions satisfaisantes. Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial (chiffres tirés de Revista Envío, mars 2010).
+
+[Lire la suite...](#)
 
 
-<div class="row">
-	<div class="medium-9 large-7 small-centered column">
-		
-		<p class="mbm">I've combined my locally installed <a href="http://foundation.zurb.com/docs/sass.html">libsass/grunt version of foundation 5</a>, <a href="http://html5boilerplate.com/">html5 boilder plate</a>, and Jekyll to be used for github pages! See <a href="http://jekyllrb.com/docs/home/">Jekyll's documentation</a>, <a href="http://foundation.zurb.com/docs/">the foundation documentations</a>, and <a href="https://help.github.com/categories/20/articles">GitHub pages help pages</a>.</p>
+Pourquoi des bibliothèques publiques ?
+--------------------------------------
 
-		<p class="mbl">You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
-		</i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
+Ainsi malgré les efforts fournis, les carences sont énormes. Or, il nous paraît fondamental d’œuvrer à ce que la population, particulièrement la plus pauvre, c’est-à-dire la plus grande partie, ait accès à la culture écrite. Le Nicaragua est un pays où la culture orale prédomine, une culture riche et précieuse, mais dans le monde d’aujourd’hui, pour le développement plein de l’être humain, la lecture est un facteur fondamental. On ne peut parler de développement, de démocratie et de participation citoyenne quand une grande partie de la population n’a pas accès à la culture écrite et ne possède pas les outils de base pour y accéder. Le citoyen se doit non seulement de protester mais de proposer, et pour proposer des solutions aux problèmes que connaît le Nicaragua, il faut lire. Pour pouvoir imaginer, il faut avoir accès à la lecture qui ouvre la porte à la connaissance universelle, à la mémoire accumulée de l’humanité.
 
-		<div class="panel radius mvl">
-			<p>You should probably update the <samp>_config.yml</samp> file, and edit <samp>scss/_setting.scss</samp> file. As well as <samp>scss/_custom.scss</samp>, where most the overrides are happening.</p>
-		</div>
+Pourquoi Chagüitillo ?
+----------------------
+![Classe unique à l'école de Monte Grande](http://nicarali.files.wordpress.com/2010/07/image3.jpg?w=400&h=268){: .right }
+C’est à **Chagüitillo** que nous avons décidé d’œuvrer à la création d’une première bibliothèque publique car là existe une association nicaraguayenne, ADCH, dont Nicarali est le partenaire et avec qui a été élaboré le projet. L’association ADCH œuvre depuis 1984 dans la vallée de Sébaco. Elle a été à l’origine de nombreux projets dans tous les domaines et est fortement implantée sur place. D’autre part, le projet de bibliothèque s’inscrit à l’intérieur d’un projet culturel plus vaste qui concerne la ville de Chagüitillo, la vallée de Sébaco et les 26 communautés indigènes qui s’y trouvent. Ainsi ont été construits un Collège, le Musée précolombien, une école de musique, un centre pour enfants handicapés, etc (voir « partenaires »)… La bibliothèque participera naturellement à cette dynamique locale et contribuera au développement culturel de toute la région et du pays.
 
+*[ADCH]: Association pour le Développement de Chagüitillo
 
-
-	</div>
-</div>
-
-
-<div class="row"> 
-
-	<div class="large-4 columns">
-		<p><a href="page-html-unit-test.html">foundation-example.html</a> shows how all the html tags are rendered. Foundation takes care of those out of the box.</p>
-	</div>
-
-	<div class="large-4 columns">
-		<p>Another example are shown in <a href="page-foundation-example.html">foundation-example.html</a>. </p>
-	</div>
-
-	<div class="large-4 columns">
-		<p>And finally, foundation's grid system, <a href="page-template-example.html">page-template-example</a> You can also <a href="http://foundation.zurb.com/templates.html">get more templates</a> from foundations home.</p>
-	</div>
-
-</div>
-
-<div class="row">
-	<div class="medium-9 large-7 small-centered column">
-	
-		<p class="mvl">And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
-		<i class="fa fa-flag fa-lg">	
-		</i>
-		font awesome</a>, so you can go crazy with <a href="http://fortawesome.github.io/Font-Awesome/icons/">the icons</a>: <i class="fa fa-bitcoin fa-lg">	
-		</i> <i class="fa fa-cog fa-spin fa-lg">
-		</i>. </p> 
-
-	</div>
-</div>
