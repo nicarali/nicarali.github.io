@@ -1,20 +1,36 @@
+@media screen and (max-width: 40.063em) {
+    .blog-content p {
+        float: none;
+        clear: both;
+    }
+    .blog-content .left, .blog-content .right {
+        float: none !important;
+    }
+    .blog-content figure figcaption {
+        display: none;
+    }
+}
+
+#header {
+    background-color: white;
+}
+
+.logo {
+    width: 5em;
+    height: auto;
+}
+
 .blog-content h2 {
   clear: both;
 }
 
-.blog-content p {
-    max-width: 100%;
-}
-
 figure { 
   -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
   -o-box-sizing: border-box;
   box-sizing: border-box;  
   display: block; 
   position: relative; 
   overflow: hidden;
-  max-width: inherit;
 }
 
 figcaption { 
