@@ -1,6 +1,8 @@
 ---
 layout: main
 title: Participer
+section: Participer
+index: 5
 ---
 
 Participer

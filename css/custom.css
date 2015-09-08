@@ -1,23 +1,15 @@
-@media screen and (max-width: 40.063em) {
-    .blog-content p {
-        float: none;
-        clear: both;
-    }
-    .blog-content .left, .blog-content .right {
-        float: none !important;
-    }
-    .blog-content figure figcaption {
-        display: none;
-    }
-}
-
 #header {
     background-color: white;
 }
 
 .logo {
-    width: 5em;
+    width: 2em;
     height: auto;
+    float: left;
+}
+
+.brand {
+    line-height: 2em;
 }
 
 .blog-content h2 {
@@ -65,4 +57,18 @@ figcaption {
 .right:hover figcaption {
   opacity: 1;
   right: 0;
+}
+
+@media screen and (max-width: 40.063em) {
+    .blog-content p {
+        float: none;
+        clear: both;
+    }
+    .blog-content .left, .blog-content .right {
+        float: none !important;
+    }
+    .blog-content figure figcaption {
+        display: none;
+    }
+    
 }

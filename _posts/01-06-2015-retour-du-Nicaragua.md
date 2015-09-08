@@ -18,6 +18,8 @@ Une fois par semaine, un atelier de lecture de contes pour enfants est organisé
 ![Laura](http://nicarali.files.wordpress.com/2010/08/laura-21-e1401890303882.jpg?w=263&h=439)
 
 La bibliothèque de Chagüitillo demain
+-------------------------------------
+
 Répartis autour de Chaguitillo, il existe 26 villages , accessibles seulement par des pistes, qui forment une Communauté Indigène. Cette communauté représente environ 1500 enfants pour lesquels les moyens éducatifs sont quasiment inexistants : un maître d’école, un bâtiment, et encore quand il existe. En pratique aucun accès au livre ni même aux aux livres scolaires (même pour le maître parfois) pour supporter un programme éducatif.
 
 Notre ambition est d’organiser une bibliothèque mobile (genre de biblio-bus), à partir de celle de Chagüitillo afin d’apporter à ces enfants des moyens minimum d’accès à la lecture ainsi que des livres scolaires. Ces communautés sont gérées par un organisme centralisé (indépendant des mairies), la Communauté Indigène . Nous avons rencontré les responsables de cette organisation qui représentent ces communautés (qui sont régies par leur propres lois).
@@ -36,7 +38,7 @@ Pour l’instant elle y va en stop, heureusement qu’il y a au bout de la piste
 
 Ce projet de bibilothèque mobile va nécessiter l’achat de nombreux livres et va représenter un budget important car le prix des livres au Nicaragua est similaire à nos prix en Europe.
 
-L’île d’OMETEPE
+L’île d’Ometepe
 ---------------
 
 ![Ometepe](http://nicarali.files.wordpress.com/2010/08/ometepe-punta-jesc3bas-marc3ada-3.png?w=550&h=418)

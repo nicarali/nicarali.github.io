@@ -1,6 +1,8 @@
 ---
 layout: main
-title: Accueil
+title: Bienvenue
+section: Bienvenue
+index: 1
 description: Bienvenue sur le site Nicarali
 keywords: Nicarali, Nicaragua, bibliothèque
 ---

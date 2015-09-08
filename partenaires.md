@@ -1,6 +1,8 @@
 ---
 layout: main
 title: Nos partenaires
+section: Nos partenaires
+index: 3
 ---
 
 Nos partenaires

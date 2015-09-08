@@ -1,6 +1,8 @@
 ---
 layout: main
 title: L'association
+index: 2
+section: L'Association
 ---
 
 L'association

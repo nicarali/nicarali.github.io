@@ -1,15 +1,42 @@
 ---
 layout: default
 title: Actualités
+section: Actualités
+index: 4
+paginate: true
 ---
+<div class="pagination-centered">
+<ul class="pagination">
+    <li class="arrow"><a href="#1">&laquo;</a></li>
+    {% assign posts = site.posts | sort:'date' %}
+    {% for post in posts reversed %}
+    {% assign index = index + 1 %}
+    <li><a href="#1">1</a></li>
+    {% endfor %}
+    <li class="arrow"><a href="#1">&raquo;</a></li>
+</ul>
+</div>
 
-<ul>
-    {% for post in site.posts %}
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">  
+    {% for post in posts reversed %}
     <li>
         <a href="{{ post.url }}">
-            {{ post.title }}
+            <h3>
+                {{ post.title }} 
+                <small>
+                    <br />
+                    <i class="fa fa-calendar"></i>
+                    {{ post.date | date: "%m/%Y" }}
+                </small>
+            </h3>
         </a>
-        {{ post.excerpt }}
+        <p>
+        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        <br />
+        <a href="{{ post.url }}">
+            Lire la suite...
+        </a>
+        </p>
     </li>
     {% endfor %}
 </ul>
