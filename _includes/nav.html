@@ -1,5 +1,16 @@
 {% assign pages = site.pages | sort:'index' %}
-{% for page in pages %}
+{% for p in pages %}
+{% if p.url contains '/page'%}
+{% else %}
 <li>
-    <a href="{{ page.url }}">{{ page.title }}</a></li>
+{% if p.title == page.title %}
+    <a href="{{ p.url | replace: 'index.html', '' }}">
+        <i class="fa fa-check"></i>
+        {{ p.title }}
+{% else %}
+    <a href="{{ p.url | replace: 'index.html', '' }}">{{ p.title }}
+{% endif %}
+    </a>
+</li>
+{% endif %}
 {% endfor %}

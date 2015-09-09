@@ -11,3 +11,5 @@ year : 2015
 markdown : kramdown
 exclude :
   - node_modules
+paginate: 3
+paginate_path: "/news/page:num"
