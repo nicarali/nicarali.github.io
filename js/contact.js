@@ -6,7 +6,7 @@ function showRecaptcha(element) {
     }
 
 function setupRecaptcha() {
-  var contactFormHost = 'nicarali-contact-form.herouapp.com',
+  var contactFormHost = 'nicarali-contact-form.herokuapp.com',
       form = $('#contact-form'),
       notice = form.find('#notice');
 
