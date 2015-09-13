@@ -75,80 +75,15 @@ figcaption {
 
 /* Contact form */
 
-.contact-form  h4 {
-    color: #668944;
-    margin-left: 20px;
-  }
-.contact-form label {
-    width: 100px;
-    margin: 5px 0;
-    display: inline-block;
-    vertical-align: top;
-  }
-.contact-form input, .contact-form textarea, .contact-form .recaptcha, .contact-form button {
-    margin: 5px 0;
-    padding: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #bbb;
-
-}
-.contact-form input.field, .contact-form textarea {
-    min-width: 330px;
-  }
-.contact-form input[name=subject], .contact-form textarea {
-    width: 73%;
-  }
-.contact-form textarea {
-    height: 150px;
-  }
-.contact-form button {
-    border: 0;
-    padding: 8px 20px;
-    color: #fff;
-    margin-top: 20px;
-  }
-.contact-form .notice {
+#alert .alert-box {
     display: none;
-    background-color: #f2dede;
-    border: 1px solid #ebccd1;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    padding: 10px 15px;
-    color: #a94442;
-    margin-top: 15px;
-  }
-.contact-form .recaptcha {
-    padding: 0;
-    display: inline-block;
-}
-.contact-form .recaptcha div.image {
-      -webkit-border-radius: 5px 5px 0 0;
-      -moz-border-radius: 5px 5px 0 0;
-      border-radius: 5px 5px 0 0;
-      padding: 10px;
-      background-color: #fff;
-      width: 320px;
-}
-.contact-form .recaptcha div.image br {
-        display: none;
-      }
-.contact-form .recaptcha div.image embed, span {
-        float: left;
-        clear: both;
+    
 }
 
-.contact-form .recaptcha div.image embed a, span a {
-          cursor: pointer;
-          font-size: 0.9em;
-        }
+#alert .alert-box span {
+    display: block;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
 
-.contact-form .recaptcha div.headline {
-      padding: 5px 5px 0 10px;
-    }
-
-.contact-form .recaptcha input[type=text] {
-      margin: 10px;
-    }

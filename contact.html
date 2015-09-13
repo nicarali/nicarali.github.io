@@ -4,39 +4,57 @@ title: Contact
 index: 6
 ---
 
-<form id="contact-form" class="contact-form" method="post" data-success="Message successfully sent!">
+<h2>Contactez-nous</h2>
 
-  <label for="name">Name</label>
-  <input id="name" type="text" name="name" class="field" required autofocus /><br/>
+<div class="row">
 
-  <label for="email">E-mail</label>
-  <input id="email" type="email" name="email" class="field" required /><br/>
-
-  <label for="subject">Subject</label>
-  <input id="subject" type="text" name="subject" class="field" required /><br/>
-
-  <label for="message">Message</label>
-  <textarea id="message" name="message" required ></textarea><br/>
-
-  <label for="recaptcha_response_field">Captcha</label>
-  <div id="recaptcha_widget" class="recaptcha">
-    <div class="image">
-      <div id="recaptcha_image"></div>
+<div id="alert" class="small-12 large-10 columns small-centered">
+    <div data-alert class="alert-box success" tabindex="0" aria-live="assertive" role="alertdialog">
+      <strong>
+          <span>
+              <i class="fa fa-check"></i>
+              Merci.
+          </span>
+          Votre message a été envoyé.</strong>
+      <button tabindex="0" class="close" aria-label="Close Alert">&times;</button>
     </div>
-
-    <div class="headline recaptcha_only_if_image">Enter the words above:</div>
-    <div class="headline recaptcha_only_if_audio">Enter the numbers you hear:</div>
-
-    <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" required />
-
-    <span class="recaptcha_icon"><a href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i></a></span>
-    <span class="recaptcha_icon recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
-    <span class="recaptcha_icon recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
-    <span class="recaptcha_icon"><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
-  </div><br/>
-  <div id="notice" class="notice" data-captcha-failed="Incorrect captcha!" data-error="There was an error sending the message, please try again."></div>
-  <button type="submit">Send</button>
+    <div data-alert class="alert-box warning" tabindex="0" aria-live="assertive" role="alertdialog">
+      <strong>
+          <span>
+              <i class="fa fa-warning"></i>
+              Désolés...
+          </span>
+          Votre message n'a pas pu &ecirc;tre envoyé. Merci de ressayer plus tard.</strong>
+      <button tabindex="0" class="close" aria-label="Close Alert">&times;</button>
+    </div>
+</div>
+    
+<div class="small-12 large-10 columns small-centered">
+    
+<form id="contact-form" action="" method="POST" class="custom">
+    <div class="row">
+    <div class="large-3 small-12 columns">
+    <label>        
+        Nom :
+        <input type="text" name="name" placeholder="Votre nom..." required />
+    </label>
+    <label>        
+        E-mail :
+    <input type="email" name="_replyto" placeholder="Votre adresse e-mail..." required />
+    </label>
+    <label>        
+        Objet :
+    <input type="text" name="subject" placeholder="Objet du message..." />
+    </label>
+    <label>        
+        Votre message :
+    <textarea name="messageText" placeholder="Texte du message..." rows="5"></textarea>
+    </label>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="text" name="_subject" style="display:none" value="Message envoyé de nicarali.com" />
+    <input class="button expand" type="submit" value="Envoyer" />
+    </div>
+    </div>
 </form>
-
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
-<script type="application/javascript" src="/js/contact.js"></script>
+</div>
+</div>
