@@ -1,23 +1,24 @@
 ---
 layout: main
-title: Contact
+title: Contactez-nous
 index: 6
 ---
 
 <h2>Contactez-nous</h2>
 
 <div class="row">
-
 <div id="alert" class="small-12 large-10 columns small-centered">
+    
     <div data-alert class="alert-box success" tabindex="0" aria-live="assertive" role="alertdialog">
       <strong>
           <span>
-              <i class="fa fa-check"></i>
+              <i class="fa fa-envelope"></i>
               Merci.
           </span>
           Votre message a été envoyé.</strong>
       <button tabindex="0" class="close" aria-label="Close Alert">&times;</button>
     </div>
+    
     <div data-alert class="alert-box warning" tabindex="0" aria-live="assertive" role="alertdialog">
       <strong>
           <span>
@@ -27,32 +28,56 @@ index: 6
           Votre message n'a pas pu &ecirc;tre envoyé. Merci de ressayer plus tard.</strong>
       <button tabindex="0" class="close" aria-label="Close Alert">&times;</button>
     </div>
-</div>
     
+</div>    
 <div class="small-12 large-10 columns small-centered">
     
-<form id="contact-form" action="" method="POST" class="custom">
+<form id="contact-form" action="" method="POST" data-abide="ajax">
     <div class="row">
-    <div class="large-3 small-12 columns">
+    <div class="small-12 columns">
+    <div class="input-wrapper">
     <label>        
         Nom :
         <input type="text" name="name" placeholder="Votre nom..." required />
     </label>
+    <small class="error">
+        <i class="fa fa-warning"></i>
+         Merci d'indiquer votre nom.
+    </small>
+    </div>
+    <div class="input-wrapper">
     <label>        
         E-mail :
-    <input type="email" name="_replyto" placeholder="Votre adresse e-mail..." required />
+    <input type="email" name="_replyto" placeholder="Votre adresse e-mail..." required  />
     </label>
+    <small class="error">
+        <i class="fa fa-warning"></i>
+         Merci d'indiquer un adresse e-mail valide.
+    </small>
+    </div>
+    <div class="input-wrapper">
     <label>        
         Objet :
-    <input type="text" name="subject" placeholder="Objet du message..." />
+    <input type="text" name="subject" placeholder="Objet du message..." required />
     </label>
+    <small class="error">
+        <i class="fa fa-warning"></i>
+         Merci d'indiquer l'objet de votre message.
+    </small>
+    </div>
+    <div class="input-wrapper">
     <label>        
-        Votre message :
-    <textarea name="messageText" placeholder="Texte du message..." rows="5"></textarea>
+        Message :
+    <textarea name="messageText" placeholder="Texte du message..." rows="5" required></textarea>
     </label>
+    <small class="error">
+        <i class="fa fa-warning"></i>
+         Merci de nous écrire quelques mots.
+    </small>
+    </div>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="text" name="_subject" style="display:none" value="Message envoyé de nicarali.com" />
-    <input class="button expand" type="submit" value="Envoyer" />
+    <input id="submit" class="button expand" type="submit" value="Envoyer" />
     </div>
     </div>
 </form>

@@ -26,4 +26,4 @@ Tout le monde peut participer à l'action de Nicarali et :
 -   faire des dons de livres en français, destinés à être revendus
 -   faire des dons d’objets pour la brocante
 
-Contactez-nous à l’adresse suivante: **[nicarali@gmail.com](mailto:nicarali@gmail.com)**
+[Contactez-nous !](/contact.html)

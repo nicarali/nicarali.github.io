@@ -1,22 +1,21 @@
 // Foundation JavaScript
 // Documentation can be found at: http://foundation.zurb.com/docs
 $(document).foundation();
+
 $(document).ready(function(){
     var captionImgs = $('.blog-content img');
-    console.log(captionImgs);
     for(var i=0; i<captionImgs.length; i++){
         img = $(captionImgs[i]);
         imgCopy = img.clone();
         imgAlt = img.attr("alt");
-        console.log(imgAlt);
         fig = document.createElement("figure");
         fig = $(fig);
-        fig.addClass("small-centered");
+        imgCopy.attr('title', imgAlt);
         cap = document.createElement("figcaption");
         if(img.hasClass("left")){
             fig.addClass("left");
             imgCopy.removeClass("left");
-        } else if (img.hasClass("right")){
+        }else if(img.hasClass("right")){
             fig.addClass("right");
             imgCopy.removeClass("right");
         }

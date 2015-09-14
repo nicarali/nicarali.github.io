@@ -21,67 +21,30 @@ figure {
 }
 
 figcaption {
-    color: #aaa;
     font-size: .75em;
+    text-indent: 1em;
+    color: indianred;
+    font-weight: bold;
 }
 
-/*
-figure { 
-  -moz-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;  
-  display: block; 
-  position: relative; 
-  overflow: hidden;
+figcation < figure::hover {
+    display: none;
 }
-
-figcaption { 
-  position: absolute; 
-  background: gold;
-  color: black;
-  padding: 0.5em; 
-  opacity: 0;
-  bottom: 1em;
-  box-shadow: -2px 2px 10px #444;
-  -webkit-box-shadow: 2px -2px 10px #444;
-  -moz-box-shadow: 2px -2px 10px #444;
-  -o-box-shadow: 2px -2px 10px #444;
-  -webkit-transition: all 0.6s ease;
-  -moz-transition:    all 0.6s ease;
-  -o-transition:      all 0.6s ease;
-}
-
-.left figcaption {
-    left: -30%;
-}
-
-.right figcaption {
-    right: -30%;
-}
-
-.left:hover figcaption {
-  opacity: 1;
-  left: 0;
-}
-
-.right:hover figcaption {
-  opacity: 1;
-  right: 0;
-}
-*/
 
 @media screen and (max-width: 40.063em) {
     .blog-content p {
         float: none;
         clear: both;
     }
-    
     .blog-content figure {
-        width: 100%;
         text-align: center;
+    }    
+    .blog-content figure figcaption {
+        text-align: center;
+        text-indent: 0;
     }
-    
-    .blog-content .left, .blog-content .right {
+    .blog-content .left,
+    .blog-content .right {
         float: none !important;
     }
     
@@ -90,8 +53,7 @@ figcaption {
 /* Contact form */
 
 #alert .alert-box {
-    display: none;
-    
+    display: none;   
 }
 
 #alert .alert-box span {
@@ -101,3 +63,30 @@ figcaption {
     font-weight: bold;
 }
 
+[data-abide] input[disabled],
+[data-abide] textarea[disabled],
+[data-abide] select[disabled]{
+    background-color: transparent;
+    border: none;
+}
+[data-abide] input[type="submit"][disabled]{
+    background-color: #8bad93;
+}
+
+[data-abide] .error label {
+    color: indianred;
+    font-weight: normal;
+}
+
+[data-abide] .error input,
+[data-abide] .error textarea,
+[data-abide] .error select
+{
+    font-weight: normal;
+    border: 1px solid indianred;
+}
+
+[data-abide] .error small.error {
+    background-color: indianred;
+    font-style: normal;
+}

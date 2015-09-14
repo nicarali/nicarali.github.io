@@ -1,9 +1,7 @@
 $(function() {
     var contactForm = $('#contact-form');
     
-    contactForm.submit(function(e) {
-        
-        e.preventDefault();
+    contactForm.on('valid.fndtn.abide', function(e) {
         
         $.ajax({
             url: "//formspree.io/drventisette@gmail.com", 
@@ -14,7 +12,10 @@ $(function() {
               // Success message
                 $('#alert .success').show();
               //clear all fields
-                contactForm.trigger("reset");
+
+                $("#contact-form :input, #submit").prop('disabled', true);
+                $("#submit").hide();
+            
                 $('html body').animate(
                     {
                     scrollTop: $('#alert').offset().top
@@ -32,6 +33,6 @@ $(function() {
                     500
                 );
             }
-          });
+          });          
         });
     });
