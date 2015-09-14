@@ -3,6 +3,7 @@ layout: main
 title: Nos partenaires
 section: Nos partenaires
 index: 3
+icon: fa-institution
 ---
 
 Nos partenaires en France

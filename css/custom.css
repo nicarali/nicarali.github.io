@@ -12,6 +12,10 @@
     line-height: 2em;
 }
 
+.current {
+    font-weight: bold;
+}
+
 .blog-content h2 {
   clear: both;
 }
@@ -23,8 +27,6 @@ figure {
 figcaption {
     font-size: .75em;
     text-indent: 1em;
-    color: indianred;
-    font-weight: bold;
 }
 
 figcation < figure::hover {
@@ -89,4 +91,8 @@ figcation < figure::hover {
 [data-abide] .error small.error {
     background-color: indianred;
     font-style: normal;
+}
+
+.site-footer * {
+    font-size: .75rem;
 }

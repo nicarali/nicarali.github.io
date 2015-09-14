@@ -3,6 +3,7 @@ layout: main
 title: L'association
 index: 2
 section: L'Association
+icon: fa-group
 ---
 
 ![Perico](http://nicarali.files.wordpress.com/2010/08/perico.png?w=950){: .right}

@@ -3,10 +3,8 @@ layout: main
 title: Participer
 section: Participer
 index: 5
+icon: fa-child
 ---
-
-Participer
-==========
 
 Tout le monde peut participer à l'action de Nicarali et :
 

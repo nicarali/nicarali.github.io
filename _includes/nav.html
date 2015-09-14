@@ -1,16 +1,19 @@
 {% assign pages = site.pages | sort:'index' %}
 {% for p in pages %}
-{% if p.url contains '/page'%}
+{% if p.url contains '/page' %} 
+{% elsif p.url contains '404' %}
 {% else %}
 <li>
 {% if p.title == page.title %}
-    <a href="{{ p.url | replace: 'index.html', '' }}">
-        <i class="fa fa-check"></i>
+    <a class="current">
+        <i class="fa {{ page.icon }}"></i>
         {{ p.title }}
-{% else %}
-    <a href="{{ p.url | replace: 'index.html', '' }}">{{ p.title }}
-{% endif %}
     </a>
+{% else %}
+    <a href="{{ p.url | replace: 'index.html', '' }}">
+        {{ p.title }}
+    </a>
+{% endif %}
 </li>
 {% endif %}
 {% endfor %}
