@@ -16,6 +16,16 @@
   clear: both;
 }
 
+figure {
+    box-sizing: border-box;
+}
+
+figcaption {
+    color: #aaa;
+    font-size: .75em;
+}
+
+/*
 figure { 
   -moz-box-sizing: border-box;
   -o-box-sizing: border-box;
@@ -58,17 +68,21 @@ figcaption {
   opacity: 1;
   right: 0;
 }
+*/
 
 @media screen and (max-width: 40.063em) {
     .blog-content p {
         float: none;
         clear: both;
     }
+    
+    .blog-content figure {
+        width: 100%;
+        text-align: center;
+    }
+    
     .blog-content .left, .blog-content .right {
         float: none !important;
-    }
-    .blog-content figure figcaption {
-        display: none;
     }
     
 }

@@ -12,13 +12,25 @@ $(function() {
             dataType: "json",
             success: function(data){
               // Success message
-              $('#alert .success').show();
+                $('#alert .success').show();
               //clear all fields
-           contactForm.trigger("reset");
+                contactForm.trigger("reset");
+                $('html body').animate(
+                    {
+                    scrollTop: $('#alert').offset().top
+                    },
+                    500
+                );
             },
             error: function(){
               // Fail message
               $('#alert .warning').show();
+                $('html body').animate(
+                    {
+                    scrollTop: $('#alert').offset().top
+                    },
+                    500
+                );
             }
           });
         });

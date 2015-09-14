@@ -5,9 +5,6 @@ section: Nos partenaires
 index: 3
 ---
 
-Nos partenaires
-===============
-
 Nos partenaires en France
 -------------------------
 

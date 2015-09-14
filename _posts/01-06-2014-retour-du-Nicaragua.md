@@ -45,3 +45,12 @@ L’île d’Ometepe
 
 Cette île aux deux grands volcans se situe sur le lac du Nicaragua, et est de par son insularité encore plus dépourvue de moyens éducatifs. Nous avons visité la commune d’ « El Madroñal »qui regroupe 1500 habitants. Deux bâtiments existent, construits par les habitants eux-mêmes et servent de classes. Des associations, américaine et espagnole ont fourni les équipements de base tables et chaises, c’est déjà bien… Nous avons rencontré Noe, professeur qui agit en tant que « leader » de la communauté et qui est devenu, de par son engagement bénévole le point de contact avec les associations.
 
+![L'école de El Madronal](http://nicarali.files.wordpress.com/2010/08/el-madroc3b1al-c3a9cole.jpg?w=950&h=546)
+
+Il nous a exprimé le besoin d’un local pour y faire une bibliothèque permettant aux enfants d’accèder aux livres scolaires. Son emplacement, sur l’aire centrale de la communauté, près de l’église et l’école permettrait à tous l’accès aux livres.
+
+![El Madronal: futur emplacement de la bibliothèque ?](http://nicarali.files.wordpress.com/2010/08/el-madroc3b1al-bibliothc3a8que.jpg?w=950&h=533)
+
+Noe nous a demandé si NICARALI pouvait fournir les matériaux et un maître d’oeuvre, nous expliquant que les familles de la communauté pouvaient se charger de la construction. 
+
+Nous attendons de sa part un avant-projet pour nous permettre d’estimer le budget pour les matériaux et ensuite l’équipement de ce local en livres et mobilier. En fonction de ce budget, nous verrons ensuite si NICARALI peut envisager ce nouveau projet. Nous allons également nous rapprocher des deux associations qui sont déjà intervenues pour discuter d’une éventuelle coopération.

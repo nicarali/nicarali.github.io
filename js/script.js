@@ -22,7 +22,7 @@ $(document).ready(function(){
         }
         cap.innerHTML = imgAlt;
         imgCopy.appendTo(fig);
-        $(cap).addClass("hide-for-small-only").appendTo(fig);
+        $(cap).appendTo(fig);
         img.replaceWith(fig);
     }
 })

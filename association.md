@@ -5,9 +5,6 @@ index: 2
 section: L'Association
 ---
 
-L'association
-=============
-
 ![Perico](http://nicarali.files.wordpress.com/2010/08/perico.png?w=950){: .right}
 
 **L’association NICARALI**, sise à Strasbourg, est née en 2010 du constat fait par ses membres fondateurs de la modicité des ressources dont dispose le Nicaragua pour l’éducation, la  culture écrite et la lecture. L’association se propose  dans ce but de travailler main dans la main avec l’association nicaraguayenne **ADCH**, initiatrice du projet de bibliothèque
