@@ -20,17 +20,44 @@
   clear: both;
 }
 
+/* IMAGES */
+
 figure {
     box-sizing: border-box;
+    margin-top: 0;
+    text-align: center;
+}
+p + figure {
+    display: block;
 }
 
-figcaption {
+figure.right,
+figure.left {
+    text-align: left;
+}
+
+figure figcaption {
     font-size: .75em;
+    text-indent: 0;
+}
+
+.left figcaption
+.right figcaption {
     text-indent: 1em;
 }
 
-figcation < figure::hover {
-    display: none;
+figure + p:after,
+figure + figure + p:before {
+    content: '';
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+figure + figure,
+figure ~ figure {
+    display: inline-block;
 }
 
 @media screen and (max-width: 40.063em) {

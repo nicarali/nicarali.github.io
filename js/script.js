@@ -22,6 +22,6 @@ $(document).ready(function(){
         cap.innerHTML = imgAlt;
         imgCopy.appendTo(fig);
         $(cap).appendTo(fig);
-        img.replaceWith(fig);
+        img.parent('p').replaceWith(fig);
     }
 })
