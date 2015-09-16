@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dernières nouvelles
+cover_url: http://nicarali.files.wordpress.com/2010/08/dsc01025.jpg?w=300&h=199
+cover_title: La f&ecirc;te de départ
 ---
 
 La bibliothèque fonctionne bien, il y a eu 290 visiteurs en avril, 350 en mai. Ce sont principalement des élèves du Lycée et des élèves de l’école primaire. Des ateliers de lecture pour enfants (« l’heure du conte ») ont lieu deux fois par semaine. Des travaux ont été encore effectués ainsi que l’achat d’un ordinateur.

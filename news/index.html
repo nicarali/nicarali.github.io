@@ -59,6 +59,7 @@ icon: fa-newspaper-o
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">  
     {% for post in paginator.posts %}
     <li>
+    <div class="panel radius">
         <a href="{{ post.url }}">
             <h3>
                 {{ post.title }} 
@@ -69,13 +70,19 @@ icon: fa-newspaper-o
                 </small>
             </h3>
         </a>
+        {% if post.cover_url %}
+            <img class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
+        <hr class="show-for-small-only" />
+        {% endif %}
         <p>
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-        <br />
+        </p>
+        <p>
         <a href="{{ post.url }}">
             Lire la suite...
         </a>
         </p>
+    </div>
     </li>
     {% endfor %}
 </ul>

@@ -1,17 +1,19 @@
 ---
 layout: post
 title: Dernières nouvelles
+cover_url: http://nicarali.files.wordpress.com/2010/08/stand-gorda2-27_11_10-111.jpg?w=199&h=300
+cover_title: Stand de Nicarali
 ---
 
 Notre association est toute jeune mais les activités ne manquent pas.
 
 Une campagne d’adhésions à NICARALI bat son plein.
 
-![Stand de Nicarali](http://nicarali.files.wordpress.com/2010/08/stand-gorda2-27_11_10-111.jpg?w=199&h=300){: .left }
-
 Des ventes d’objets collectés par les membres de l’association ont été effectuées dans des brocantes aux mois de mai et juin ainsi qu’en septembre à Bougival, en octobre à Chaville. Cette activité devrait nous assurer un revenu de 1000 euros par an environ.
 
-![Stand de Nicarali](http://nicarali.files.wordpress.com/2010/08/stand-27_11_10-6.jpg?w=300&h=199){: .right }
+![Stand de Nicarali](http://nicarali.files.wordpress.com/2010/08/stand-gorda2-27_11_10-111.jpg?w=199&h=300)
+
+![Stand de Nicarali](http://nicarali.files.wordpress.com/2010/08/stand-27_11_10-6.jpg?w=300&h=199)
 
 Nous avons été présents au Marché de Noël à Strasbourg en décembre, au stand d’HUMANIS, chalet Village du partage Place Kléber, les 27 novembre et 14 décembre.
 

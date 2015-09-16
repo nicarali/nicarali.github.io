@@ -26,6 +26,12 @@ permalink: /news/:year/:month/:title
         </small>
     </h1>
     <div class="blog-content">
+    {% if page.cover_url %}
+        <figure class="cover-wrap">
+        <img class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
+        <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
+        </figure>
+    {% endif %}
     {{ content }}
     </div>
 </div>

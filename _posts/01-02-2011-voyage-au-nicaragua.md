@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Voyage au Nicaragua
+cover_url: http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-133.jpg?w=300&h=225
+cover_title: La bibliothèque
 ---
 
 Nous sommes arrivés à Chagüitillo fin janvier et avons profité de l’amitié et  la complicité de René et Annick Dufour, qui font depuis longtemps l’aller et retour entre Vaulx-en-Velin, Lyon et Chagüitillo, dans la solidarité avec la communauté,  et qui nous ont accueilli chez eux avec une rare générosité  (les petit-déjeuners: bananes et  fromage frit de René,  jus de fruits frais d’Annick…) tout le temps de notre séjour.
 
-![La bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-133.jpg?w=300&h=225){: .right }
+![La bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-133.jpg?w=300&h=225){: .left }
 
 La bibliothèque, située dans un local appartenant à ADCH (Association pour le Développement de Chagüitillo)  était ouverte. Ouverte tous les jours, matin et après-midi, aux bons soins d’une jeune femme appelée Brenda. Brenda n’a pas véritablement été formée pour ce métier, et a beaucoup à apprendre mais elle est enthousiaste, disponible et pleine de bonne volonté. Elle a assuré les permanences depuis le mois d’août sans avoir jamais été rétribuée. C’est du « travail volontaire ». Elle n’a aucun autre revenu par ailleurs.
 
-![La bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-138.jpg?w=245&h=300){: .left }
+![La bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-138.jpg?w=245&h=300){: .right }
 
-La bibliothèque est ouverte et les enfants y viennent facilement, elle est située au milieu de la communauté, près de l’école primaire et du lycée. Les petits viennent y regarder les quelques livres, et les grands consulter les vieux manuels scolaires existants (eux-mêmes n’en ont pas, et il n’y a pas de bibliothèque au lycée). C’est un lieu où les gens entrent, sortent, viennent bavarder, vraiment bien situé.
-
+La bibliothèque est ouverte et les enfants y viennent facilement, elle est située au milieu de la communauté, près de l’école primaire et du lycée. Les petits viennent y regarder les quelques livres, et les grands consulter les vieux manuels scolaires existants (eux-mêmes n’en ont pas, et il n’y a pas de bibliothèque au lycée). C’est un lieu où les gens entrent, sortent, viennent bavarder, vraiment bien situé. 
 Aucun aménagement n’a été fait avant mon arrivée. Les livres récupérés de l’ancienne bibliothèque sont entassés dans un coin, car il n’y a pas d’étagères, ils ne sont pas classés et sont recouverts de poussière, car le toit  n’est pas étanche, et il n’y a pas de fenêtres, que des volets en bois.
 
 Actions menées
@@ -42,13 +43,13 @@ Nous avons profité de ce tour des villes du Nicaragua pour acheter de l’artis
 
 Nous avons également rapporté des tableaux du peintre Abel Vargas, que nous avons rencontré à deux reprises, c’est une belle personne…  Ils sont à vendre aussi, ainsi que des cartes postales faites à partir de tableaux de peintres « primitivistes ».
 
-![Dos Garzas - Abel Vargas](http://nicarali.files.wordpress.com/2010/08/dos-garzas1.jpg?w=300&h=155)
+![Dos Garzas - Abel Vargas](http://nicarali.files.wordpress.com/2010/08/dos-garzas1.jpg?w=300&h=155){: .right}
 
 En ce qui concerne la bibliothèque, il ne se passait pas grand-chose avant notre arrivée, mais notre activité, et surtout le fait de dire que nous venions avec un peu d’argent, a permis de faire bouger les choses. Nous avons donné 1500 dollars (soit à peu près 1100 euros) à la Mairie de Sébaco, qui va faire faire des travaux d’aménagement dans le local. Cette somme aurait correspondu au devis d’un plafond, mais il a semblé préférable d’acquérir des étagères pour mettre les livres, une table pour les enfants et  de garder un petit fonds pour permettre à Brenda d’acheter du matériel pour mettre en route des ateliers pour les enfants, en complétant les achats que nous avons faits (crayons, stylos, papier, pâte à modeler, puzzles et … des boîtes pour rangement, une corbeille à papier, …un balai et une serpillière).
 
-![Livres pour la bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-173.jpg?w=300&h=225)
+![Livres pour la bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-173.jpg?w=300&h=225){: .left}
 
- La veille de notre départ, une grande réunion a eu lieu pour former un Comité de soutien à la bibliothèque. La présidente élue est une professeure du lycée, les autres membres, six en tout (parents d’élèves, représentants des autorités locales et d’ADCH, et jeunes) sont tous issus de la communauté. Tout le monde était content, et je dois dire qu’à ma grande surprise, une fête a été organisée en mon honneur, pour me remercier de mon action, avec orchestre de mariachis et gros gâteaux décorés à mon nom !!
+La veille de notre départ, une grande réunion a eu lieu pour former un Comité de soutien à la bibliothèque. La présidente élue est une professeure du lycée, les autres membres, six en tout (parents d’élèves, représentants des autorités locales et d’ADCH, et jeunes) sont tous issus de la communauté. Tout le monde était content, et je dois dire qu’à ma grande surprise, une fête a été organisée en mon honneur, pour me remercier de mon action, avec orchestre de mariachis et gros gâteaux décorés à mon nom !!
  
 Et maintenant
 -------------

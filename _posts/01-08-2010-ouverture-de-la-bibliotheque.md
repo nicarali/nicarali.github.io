@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ouverture de la bibliothèque
+cover_url: http://nicarali.files.wordpress.com/2010/08/photo25.jpg?w=300&h=218
+cover_title: La bibliothèque
 ---
 
 La bibliothèque a ouvert ses portes!

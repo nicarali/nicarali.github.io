@@ -22,10 +22,30 @@
 
 /* IMAGES */
 
+.cover-thumb {
+    display: block;
+    padding: 3%;
+    border: 1px solid #ddd;
+    background-color: floralwhite;
+    margin: 1% auto;
+}
+
+.cover {
+    display: block;
+    width: 100%;
+    height: 200px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.cover-wrap {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 figure {
     box-sizing: border-box;
     margin-top: 0;
-    text-align: center;
 }
 p + figure {
     display: block;
@@ -58,6 +78,7 @@ figure + figure + p:before {
 figure + figure,
 figure ~ figure {
     display: inline-block;
+    max-width: 40%;
 }
 
 @media screen and (max-width: 40.063em) {
@@ -66,7 +87,9 @@ figure ~ figure {
         clear: both;
     }
     .blog-content figure {
+        display: block;
         text-align: center;
+        max-width: none;
     }    
     .blog-content figure figcaption {
         text-align: center;
