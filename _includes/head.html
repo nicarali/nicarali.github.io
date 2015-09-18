@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }} - {{ site.name }}</title>
-    <meta name="description" content="{{ page.title }} - {{ site.name }}" />
+    <title>{{ page.title }} | {{ site.name }}</title>
+    <meta name="description" content="{{ page.description || site.description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
 
@@ -34,5 +34,10 @@
     <!-- modernizr
     ================================================== -->
     <script src="/bower_components/modernizr/modernizr.js"></script>
+    
+    <!-- Google+ share button -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+      
   </head>
   <body>
