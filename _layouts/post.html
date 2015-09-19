@@ -34,6 +34,11 @@ permalink: /news/:year/:month/:title
     {% endif %}
     {{ content }}
     </div>
-    <!-- Google+ share button -->
-    <div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ page.url }}"></div>
+    <!-- Social buttons -->
+    <ul class="socialNav side-nav hide-for-small-only">
+        {% include social.html %}
+    </ul>
+    <ul class="socialNav small-centered inline-list show-for-small-only">
+        {% include social.html %}
+    </ul>
 </div>
