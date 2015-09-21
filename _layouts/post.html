@@ -34,11 +34,19 @@ permalink: /news/:year/:month/:title
     {% endif %}
     {{ content }}
     </div>
+</div>
+<div class="row">
     <!-- Social buttons -->
-    <ul class="socialNav side-nav hide-for-small-only">
+    <div class="hide-for-medium-down">
+    <ul class="social side-nav">
         {% include social.html %}
     </ul>
-    <ul class="socialNav small-centered inline-list show-for-small-only">
+    </div>
+    <div class="show-for-medium-down small-10 small-centered columns">
+        <hr />
+    <ul class="social inline-list">
+        <h4>Partagez ce post :</h4>
         {% include social.html %}
     </ul>
+    </div>
 </div>
