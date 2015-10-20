@@ -12,8 +12,7 @@ Nous avons la tristesse de vous faire part du décès subit, le 19 mai, de Carme
 Nous pensons avec une grande affection à Vicente, son mari, à ses filles, ainsi qu’à tous les membres de sa famille.
 
 
-Activités de l'association
---------------------------
+## Activités de l'association
 
 Nous avons été de sortie ce printemps, pour des ventes à l’extérieur, brocantes, vide-greniers, vente d’artisanat, de livres, de tableaux, de cartes. 
 

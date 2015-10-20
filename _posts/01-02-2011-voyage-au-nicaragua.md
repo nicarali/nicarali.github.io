@@ -16,8 +16,7 @@ La bibliothèque, située dans un local appartenant à ADCH (Association pour le
 La bibliothèque est ouverte et les enfants y viennent facilement, elle est située au milieu de la communauté, près de l’école primaire et du lycée. Les petits viennent y regarder les quelques livres, et les grands consulter les vieux manuels scolaires existants (eux-mêmes n’en ont pas, et il n’y a pas de bibliothèque au lycée). C’est un lieu où les gens entrent, sortent, viennent bavarder, vraiment bien situé. 
 Aucun aménagement n’a été fait avant mon arrivée. Les livres récupérés de l’ancienne bibliothèque sont entassés dans un coin, car il n’y a pas d’étagères, ils ne sont pas classés et sont recouverts de poussière, car le toit  n’est pas étanche, et il n’y a pas de fenêtres, que des volets en bois.
 
-Actions menées
---------------
+## Actions menées
 
 Nous sommes arrivés avec deux grands cartons remplis de livres en espagnol, des livres pour enfants et de  littérature (40 kilos transportés de Strasbourg à Chagüitillo en passant par Francfort, Houston, Managua…). Les autres ouvrages (80 kilos) offerts par une amie, (Juana, merci)  espagnole de Valencia, des encyclopédies principalement, ont été acheminés plus tard dans les bagages des 12 élèves du Collège de Bourg-les- Valence qui sont partis faire un chantier à Chagüitillo.
 
@@ -51,8 +50,7 @@ En ce qui concerne la bibliothèque, il ne se passait pas grand-chose avant notr
 
 La veille de notre départ, une grande réunion a eu lieu pour former un Comité de soutien à la bibliothèque. La présidente élue est une professeure du lycée, les autres membres, six en tout (parents d’élèves, représentants des autorités locales et d’ADCH, et jeunes) sont tous issus de la communauté. Tout le monde était content, et je dois dire qu’à ma grande surprise, une fête a été organisée en mon honneur, pour me remercier de mon action, avec orchestre de mariachis et gros gâteaux décorés à mon nom !!
  
-Et maintenant
--------------
+## Et maintenant
  
 ![Le comité de soutient à la bibliothèque](http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-1149.jpg?w=300&h=225)
  

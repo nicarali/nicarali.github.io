@@ -30,8 +30,7 @@ Des voyages à Chagüitillo, dans la région et au Nicaragua sont organisés, da
 
 Des contacts ont été pris avec l’association Bibliothèque sans Frontières. Cette association pourrait envoyer un intervenant pour former la bibliothécaire.
 
-Remerciements
--------------
+## Remerciements
 
 Nous remercions Philippe Queney pour avoir créé le logo.
 

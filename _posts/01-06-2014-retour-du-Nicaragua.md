@@ -7,8 +7,7 @@ cover_title: Les enfants
 
 Nous sommes revenus (Laurence, la trésorière de Nicarali, Gérard le bénévole fondamental et Claudine, la présidente) il y a quelques jours de deux semaines au Nicaragua. A Chagüitillo nous avons fait le point sur le fonctionnement de la bibliothèque, nous avons rencontré les responsables locaux et discuté de nos actions à venir. Et nous sommes allés sur l’île d’Ometepe, où nous avons des demandes pour un projet identique.
 
-A Chagüitillo  
--------------
+## A Chagüitillo
 
 Nous avons maintenant terminé tous les travaux (nous avons fait installer des sanitaires en fin d’année dernière ainsi que des ventilateurs… la semaine dernière! après avoir constaté la chaleur étouffante qui régnait dans le local,chaleur qui faisait que la bibliothèque était vide l’après-midi) et fourni environ 2500 livres (livres scolaires, livres pour enfants, BD, dictionnaires, sciences, littérature).
 
@@ -19,8 +18,7 @@ Une fois par semaine, un atelier de lecture de contes pour enfants est organisé
 
 ![Laura](http://nicarali.files.wordpress.com/2010/08/laura-21-e1401890303882.jpg?w=263&h=439)
 
-La bibliothèque de Chagüitillo demain
--------------------------------------
+## La bibliothèque de Chagüitillo demain
 
 Répartis autour de Chaguitillo, il existe 26 villages , accessibles seulement par des pistes, qui forment une Communauté Indigène. Cette communauté représente environ 1500 enfants pour lesquels les moyens éducatifs sont quasiment inexistants : un maître d’école, un bâtiment, et encore quand il existe. En pratique aucun accès au livre ni même aux aux livres scolaires (même pour le maître parfois) pour supporter un programme éducatif.
 
@@ -40,8 +38,7 @@ Pour l’instant elle y va en stop, heureusement qu’il y a au bout de la piste
 
 Ce projet de bibilothèque mobile va nécessiter l’achat de nombreux livres et va représenter un budget important car le prix des livres au Nicaragua est similaire à nos prix en Europe.
 
-L’île d’Ometepe
----------------
+## L’île d’Ometepe
 
 ![Ometepe](http://nicarali.files.wordpress.com/2010/08/ometepe-punta-jesc3bas-marc3ada-3.png?w=550&h=418)
 

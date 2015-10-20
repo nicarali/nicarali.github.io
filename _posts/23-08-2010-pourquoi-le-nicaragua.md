@@ -7,8 +7,7 @@ cover_title: L'Amérique Centrale
 
 La population du Nicaragua est très jeune : en 2008, 50,6% de la population, (soit 2,9 millions de nicaraguayens)a moins de dix-neuf ans. 56,7% de la population enfantine vit dans des conditions de pauvreté (24%) ou d’extrême pauvreté (32,7%). 27% des enfants soufrent de dénutrition chronique, seuls 9% d’entre eux vivent dans des conditions satisfaisantes. Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial (chiffres tirés de Revista Envío, mars 2010).
 
-Une volonté d’éducation
------------------------
+## Une volonté d’éducation
 
 Dans ces conditions, l’éducation est une priorité et une gageure. Or, le Nicaragua a récemment décidé de relever ce défi. Une des premières mesures prises par le gouvernement de Daniel Ortega élu en 2007 a été de réintroduire par décret présidentiel la gratuité de l’enseignement primaire et secondaire, principe inscrit dans la Constitution et négligé par les trois gouvernements antérieurs. Les enjeux en matière d’éducation sont énormes : 43% de la population, plus de 2 millions de personnes se trouvent en âge scolaire, ce qui signifie qu’il doit y avoir une place assise dans les écoles pour chacun d’eux.
 

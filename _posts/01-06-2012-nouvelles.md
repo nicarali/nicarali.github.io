@@ -51,8 +51,7 @@ Une fresque extérieure est en cours d’élaboration.
 
 Nous sommes partis avant la fin des travaux…Un certain nombre d’actions ont été repoussées à plus tard, notamment l’installation de toilettes et la réfection d’une pièce attenante au local principal, qui devrait servir de salle pour tout ce qui est informatique.
 
-Autres actions
---------------
+## Autres actions
 
 ![Livre](http://nicarali.files.wordpress.com/2010/08/dsc00347.jpg?w=342&h=514){: .left}
 
