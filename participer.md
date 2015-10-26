@@ -2,7 +2,7 @@
 layout: main
 title: Participer
 section: Participer
-index: 5
+index: 6
 icon: fa-child
 ---
 

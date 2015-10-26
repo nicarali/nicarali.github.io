@@ -3,6 +3,14 @@
 $(document).foundation();
 
 $(document).ready(function(){
+    
+  $('#carousel').slick({
+    dots: true,
+    speed: 300,
+    slideToShow: 1,
+    arrows: true
+  });
+  
     var captionImgs = $('.blog-content img');
     for(var i=0; i<captionImgs.length; i++){
         img = $(captionImgs[i]);

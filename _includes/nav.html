@@ -1,6 +1,7 @@
 {% assign pages = site.pages | sort:'index' %}
 {% for p in pages %}
-{% if p.url contains '/page' %} 
+{% if p.url contains '/page' %}
+{% elsif p.index == 0 %}
 {% elsif p.url contains '404' %}
 {% else %}
 <li>
