@@ -59,7 +59,7 @@ index: 0
   <li>
     <a href="{{ post.url }}">
       <i class="fa fa-newspaper-o"></i>
-      <small>{{ post.lang }}</small>
+      <small>{{ post.lang | upcase }}</small>
       |
       <strong> {{ post.title }}</strong>
       <small>{{ post.date | date: "%m/%Y" }}</small>

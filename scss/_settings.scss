@@ -116,13 +116,29 @@ $font-family-sans-serif: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-s
 // $black       : #000000;
 
 // We use these as default colors throughout
-$primary-color: #8bad93;
+// $primary-color: #8bad93;
 // $secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
 
+$logo-yellow: #fcc865;
+$logo-orange: #ee8039;
+$logo-green: #948d60;
+$logo-brown: #99653d;
+$logo-red: #bb442f;
+$logo-dark-blue: #393d67;
+$logo-light-blue: #c5D8e8;
+
+$primary-color: $logo-red;
+$secondary-color: $logo-orange;
+$alert-color: $logo-red;
+$success-color: $logo-green;
+$warning-color: $logo-orange;
+$info-color: $logo-light-blue;
+
+$body-bg: $logo-yellow;
 // We use these to control various global styles
 // $body-bg: $white;
 // $body-font-color: $jet;
@@ -262,6 +278,7 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 // $hr-border-width: 1px;
 // $hr-border-style: solid;
 // $hr-border-color: $gainsboro;
+$hr-border-color: scale-color($body-bg, $saturation: -33%);
 // $hr-margin: rem-calc(20);
 
 // We use these to style lists
@@ -806,6 +823,7 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 // $include-html-off-canvas-classes: $include-html-classes;
 
 // $tabbar-bg: $oil;
+$tabbar-bg: $primary-color;
 // $tabbar-height: rem-calc(45);
 // $tabbar-icon-width: $tabbar-height;
 // $tabbar-line-height: $tabbar-height;
@@ -813,7 +831,7 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 // $tabbar-middle-padding: 0 rem-calc(10);
 
 // Off Canvas Divider Styles
-// $tabbar-right-section-border: solid 1px scale-color($tabbar-bg, $lightness: 13%);
+$tabbar-right-section-border: solid 1px scale-color($tabbar-bg, $lightness: 13%);
 // $tabbar-left-section-border: solid 1px scale-color($tabbar-bg, $lightness: -50%);
 
 // Off Canvas Tab Bar Headers
@@ -824,8 +842,9 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 
 // Off Canvas Menu Variables
 // $off-canvas-width: rem-calc(250);
-// $off-canvas-bg: $oil;
 // $off-canvas-bg-hover: scale-color($tabbar-bg, $lightness: -30%);
+$off-canvas-bg-hover: scale-color($tabbar-bg, $lightness: 14%);
+$off-canvas-bg: $tabbar-bg;
 
 // Off Canvas Menu List Variables
 // $off-canvas-label-padding: 0.3rem rem-calc(15);
@@ -934,11 +953,14 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 // We use these for the pagination anchor links
 // $pagination-link-pad: rem-calc(1 10 1);
 // $pagination-link-font-color: $aluminum;
+$pagination-link-font-color: $primary-color;
 // $pagination-link-active-bg: scale-color($white, $lightness: -10%);
+$pagination-link-active-bg: scale-color($body-bg, $lightness: -14%);
 
 // We use these for disabled anchor links
 // $pagination-link-unavailable-cursor: default;
 // $pagination-link-unavailable-font-color: $aluminum;
+$pagination-link-unavailable-font-color: transparent;
 // $pagination-link-unavailable-bg-active: transparent;
 
 // We use these for currently selected anchor links
@@ -955,12 +977,15 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 
 // We use these to control the background and border styles
 // $panel-bg: scale-color($white, $lightness: -5%);
+$panel-bg: scale-color($body-bg, $lightness: 14%);
+$callout-panel-bg: $primary-color;
 // $panel-border-style: solid;
 // $panel-border-size: 1px;
 
 // We use this % to control how much we darken things on hover
-// $panel-function-factor: -11%;
-// $panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor);
+$panel-function-factor: -11%;
+$panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor);
+$callout-panel-border-color: scale-color($callout-panel-bg, $lightness: $panel-function-factor);
 
 // We use these to set default inner padding and bottom margin
 // $panel-margin-bottom: rem-calc(20);
@@ -971,7 +996,7 @@ $header-font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans
 // $panel-font-color-alt: $white;
 
 // $panel-header-adjust: true;
-// $callout-panel-link-color: $primary-color;
+$callout-panel-link-color: $logo-yellow;
 
 // 22. Pricing Tables
 // - - - - - - - - - - - - - - - - - - - - - - - - -

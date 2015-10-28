@@ -13,7 +13,7 @@
       <a href="{{ post.url }}">
         <h3>
           {{ post.title }} 
-          <small>
+          <small class="secondary">
             <br />
             <i class="fa fa-calendar"></i>
             {{ post.date | date: "%m/%Y" }}
@@ -23,14 +23,23 @@
           {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 50 }}
         </p>
       </a>
+      <p class="text-right pan man">
+        <a class="button secondary tiny round" href="{{ post.url }}">
+          {% if page.lang == 'es' %}
+          Leer más
+          {% else %}
+          Lire la suite
+          {% endif %}
+        </a>
+      </p>
     </div>
   </div>
   {% endfor %}  
-  <a href="/archive" class="button expand">
+  <a href="/archive" class="button radius secondary expand">
     {% if page.lang == 'es' %}
-    Ver todos los artículos...
+    Ver todos los artículos
     {% else %}
-    Voir tous les articles...
+    Voir tous les articles
     {% endif %}
   </a  
 </div>
