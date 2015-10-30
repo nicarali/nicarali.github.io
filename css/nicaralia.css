@@ -22,11 +22,6 @@
   clear: both;
 }
 
-.unstyled-list li {
-  margin: 0;
-  list-style-type: none;
-}
-
 /*-------- IMAGES -------*/
 
 .cover-thumb {
@@ -106,6 +101,57 @@ figure ~ figure {
     .blog-content .right {
         float: none !important;
     }
+}
+
+/*------- LIST ---------*/
+
+.blog-content ul,
+.blog-content ol {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 3em;
+  padding: 0;
+  font-size: 85%;
+}
+
+.blog-content ol {
+  counter-reset: li-counter;
+}
+
+.blog-content ul > li,
+.blog-content ol > li {
+  position: relative;
+  margin-bottom: 20px;
+  padding-left: 0.5em;
+  min-height: 3em;
+}
+
+.blog-content ul > li:before {    
+  font-family: "FontAwesome";
+  content: "\f198";
+}
+
+.blog-content ol > li:before {    
+  font-family: inherit;
+  content: counter(li-counter);
+  counter-increment: li-counter;
+  font-weight: bold;
+}
+
+.blog-content ul > li:before,
+.blog-content ol > li:before {
+  position: absolute;
+  top: 0;
+  left: -1em;
+  width: 0.8em;
+  font-size: 1.5em;
+  line-height: 1;
+  text-align: right;
+}
+
+.unstyled-list li {
+  margin: 0;
+  list-style-type: none;
 }
 
 /*------- CONTACT FORM -------*/
