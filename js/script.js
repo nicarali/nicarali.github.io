@@ -1,9 +1,7 @@
-// Foundation JavaScript
-// Documentation can be found at: http://foundation.zurb.com/docs
-$(document).foundation();
-
-$(document).ready(function(){
-    var captionImgs = $('.blog-content img');
+var ImgsToFigures = {
+  convert: function(element){
+    var $element = $(element),
+        captionImgs = $element.find('img');
     for(var i=0; i<captionImgs.length; i++){
         img = $(captionImgs[i]);
         imgCopy = img.clone();
@@ -24,4 +22,13 @@ $(document).ready(function(){
         $(cap).appendTo(fig);
         img.parent('p').replaceWith(fig);
     }
+  }
+};
+
+// Foundation JavaScript
+// Documentation can be found at: http://foundation.zurb.com/docs
+$(document).foundation();
+
+$(document).ready(function(){
+    ImgsToFigures.convert($('.blog-content'));
 });
