@@ -20,7 +20,7 @@ permalink: /news/:year/:month/:title
     {% else %}
       <meta itemprop="image" content="{{ site.url }}/img/logo-tr.png">
     {% endif %}
-    <meta itemprop="headline" content="{{ page.excerpt }}"
+    <meta itemprop="headline" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}"
     {{ content }}
     </div>
 </div>
