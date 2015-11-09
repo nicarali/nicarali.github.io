@@ -1,9 +1,7 @@
 /* TEAM */
-  Developer: Daigo Fujiwara
-  Site: daigo.org
-  Twitter: @daigofuji
-  Github: @daigofuji
-  Location: Boston, MA
+  Developer: Drventisette
+  Github: @drventisette
+  Location: Paris, France
 
 /* SITE */
   Standards: HTML5, MD, SCSS/CSS3, JS 
