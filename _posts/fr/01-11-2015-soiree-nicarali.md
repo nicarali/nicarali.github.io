@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Soirée Nicarali
-cover_url: https://nicarali.files.wordpress.com/2015/11/affiche-5.jpg?w=726&h=1024
+cover_url: https://www.dropbox.com/s/0fi6jpr3zyf3q8p/affiche-5.jpg?raw=1
 cover_title: L'affiche de la soirée
 ---
 
 L’association Nicarali organise le 5 décembre au Foyer Sainte Madeleine à Strasbourg une soirée conviviale en faveur du développement de bibliothèques publiques au Nicaragua.
 
-![L'affiche de la soirée illustrée par Maud Atamaniuk](https://nicarali.files.wordpress.com/2015/11/affiche-5.jpg)
+![L'affiche de la soirée illustrée par Maud Atamaniuk](https://www.dropbox.com/s/0fi6jpr3zyf3q8p/affiche-5.jpg?raw=1)
 
 Depuis 2010, Nicarali a créé deux bibliothèques, fixe et mobile, dans deux villes du Nicaragua (Chagüitillo et Sébaco), dans le but de favoriser l’accès à la lecture et à l’éducation. Un nouveau projet est en route, une bibliothèque à Laguna De Perlas, sur la côte atlantique.
 
@@ -19,10 +19,10 @@ Ce sera l’occasion de passer une bonne soirée en musique, tout en découvrant
 
 #### PROGRAMME DES CONCERTS :
 
-> * **KRYL**, chanson rock
-> * **ADIB**, musique judéo-andalouse
-> * **Simplemente TANGO**, chanson
-> * **Latin Danse Entertainment**, initiation à la salsa
+* **KRYL**, chanson rock
+* **ADIB**, musique judéo-andalouse
+* **Simplemente TANGO**, chanson
+* **Latin Danse Entertainment**, initiation à la salsa
 
 Participation à la soirée + repas (boissons non comprises) : 18€
 
