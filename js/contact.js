@@ -4,7 +4,7 @@ $(function() {
     contactForm.on('valid.fndtn.abide', function(e) {
         
         $.ajax({
-            url: "//formspree.io/drventisette@gmail.com", 
+            url: "//formspree.io/nicarali@gmail.com", 
             method: "POST",
             data: $(this).serialize(),
             dataType: "json",
