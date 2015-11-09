@@ -7,6 +7,7 @@ permalink: /news/:year/:month/:title
 <div itemscope item-type="http://schema.org/Article">
     <h1 itemprop="name">{{ page.title }}
         <small>
+          <meta itemprop="publishedDate" content="{{ page.date }}">
             {% include date.html %}
         </small>
     </h1>
@@ -16,6 +17,8 @@ permalink: /news/:year/:month/:title
         <img itemprop="image" class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
         <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
         </figure>
+    {% else %}
+      <meta itemprop="image" content="/img/logo-tr.png">
     {% endif %}
     {{ content }}
     </div>
