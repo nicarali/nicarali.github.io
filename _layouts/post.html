@@ -4,16 +4,16 @@ section: Actualités
 permalink: /news/:year/:month/:title
 ---
 
-<div>
-    <h1>{{ page.title }}
+<div itemscope item-type="http://schema.org/Article">
+    <h1 itemprop="name">{{ page.title }}
         <small>
             {% include date.html %}
         </small>
     </h1>
-    <div class="blog-content">
+    <div class="blog-content" itemprop="articleBody">
     {% if page.cover_url %}
         <figure class="cover-wrap">
-        <img class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
+        <img itemprop="image" class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
         <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
         </figure>
     {% endif %}
