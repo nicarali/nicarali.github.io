@@ -1,7 +1,7 @@
 {% assign posts=site.posts | where: "lang", page.lang %}
 <div>
   {% for post in posts | limit: 10  %}
-  <div itemscope itemtype="http://schema.org/Article" class="panel row mam">    
+  <div itemscope item-type="http://schema.org/Article" class="panel row mam">    
     {% if post.cover_url %}  
     <div class="small-4 columns">
       <img itemprop="image" class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
