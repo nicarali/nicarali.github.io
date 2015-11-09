@@ -12,8 +12,10 @@
     <div class="small-12 columns">
     {% endif %}
       <a href="{{ post.url }}">
-        <h3 itemprop="name">
+        <h3>
+          <span itemprop="headline">
           {{ post.title }} 
+          </span>
           <small class="secondary">
             <br />
             <i class="fa fa-calendar"></i>
@@ -21,7 +23,7 @@
             {{ post.date | date: "%m/%Y" }}
           </small>
         </h3>
-        <p itemprop="headline">
+        <p itemprop="description">
           {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 50 }}
         </p>
       </a>
