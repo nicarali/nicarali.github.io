@@ -5,7 +5,7 @@
     {% if p.title == page.title %}
         <a class="current">
             <i class="fa {{ page.icon }}"></i>
-            {{ p.title }} - {{ p.index }}
+            {{ p.title }}
         </a>
     {% else %}
         <a href="{{ p.url | replace: 'index.html', '' }}">

@@ -24,4 +24,4 @@ Tout le monde peut participer à l'action de Nicarali et :
 -   faire des dons de livres en français, destinés à être revendus
 -   faire des dons d’objets pour la brocante
 
-[Contactez-nous !](/contact.html)
+[Contactez-nous !](/contact)
