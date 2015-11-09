@@ -16,10 +16,11 @@
           <small class="secondary">
             <br />
             <i class="fa fa-calendar"></i>
+            <meta itemprop="datePublished" content="{{ post.date }}">
             {{ post.date | date: "%m/%Y" }}
           </small>
         </h3>
-        <p itemprop="articleSection">
+        <p itemprop="headline">
           {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 50 }}
         </p>
       </a>
