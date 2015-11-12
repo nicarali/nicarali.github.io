@@ -34,6 +34,6 @@ Des contacts ont été pris avec l’association Bibliothèque sans Frontières.
 
 Nous remercions Philippe Queney pour avoir créé le logo.
 
-Ce site internet a été mis en place grâce à la compétence et l’amitié de [François Deverly](www.fdeverly.fr), webdesigner.
+Ce site internet a été mis en place grâce à la compétence et l’amitié de [François Deverly](//www.fdeverly.com), webdesigner.
 
 
