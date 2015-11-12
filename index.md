@@ -20,8 +20,7 @@ En France, les projets de solidarité envers les pays plus démunis vont surtout
 
 #### Le mot de la présidente
 
-Ma rencontre avec l’Amérique latine, faite à l’adolescence, s’est depuis enrichie de mon expérience dans l’enseignement de l’espagnol. Les voyages se sont répétés, en Amérique centrale ces derniers années, pour à chaque fois en connaître un peu plus. Sans but précis, au gré des rencontres, des envies, des coups de cœur.
-
+Ma rencontre avec l’Amérique latine, faite à l’adolescence, s’est depuis enrichie de mon expérience dans l’enseignement de l’espagnol. Les voyages se sont répétés, en Amérique centrale ces derniers années, pour à chaque fois en connaître un peu plus. Sans but précis, au gré des rencontres, des envies, des coups de cœur.  
 [Lire la suite...]({% post_url fr/2010-08-22-le-mot-de-la-presidente %})
 </div>
 {::options parse_block_html="false" /}
@@ -31,8 +30,7 @@ Pourquoi le Nicaragua ?
 
 ![L'Amérique Centrale](http://nicarali.files.wordpress.com/2010/08/mapa2.jpg?w=257&h=228){: .left }
 
-La population du Nicaragua est très jeune : en 2008, 50,6% de la population, (soit 2,9 millions de nicaraguayens) a moins de dix-neuf ans. 56,7% de la population enfantine vit dans des conditions de pauvreté (24%) ou d’extrême pauvreté (32,7%). 27% des enfants soufrent de dénutrition chronique, seuls 9% d’entre eux vivent dans des conditions satisfaisantes. Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial (chiffres tirés de Revista Envío, mars 2010).
-
+La population du Nicaragua est très jeune : en 2008, 50,6% de la population, (soit 2,9 millions de nicaraguayens) a moins de dix-neuf ans. 56,7% de la population enfantine vit dans des conditions de pauvreté (24%) ou d’extrême pauvreté (32,7%). 27% des enfants soufrent de dénutrition chronique, seuls 9% d’entre eux vivent dans des conditions satisfaisantes. Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial (chiffres tirés de Revista Envío, mars 2010).  
 [Lire la suite...]({% post_url fr/2010-08-23-pourquoi-le-nicaragua %})
 
 
