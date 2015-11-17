@@ -8,7 +8,7 @@
             {{ p.title }}
         </a>
     {% else %}
-        <a href="{{ p.url | replace: 'index.html', '' }}">
+        <a href="{{ p.url | replace: 'index.html', '' }}" hreflang="{{ p.lang ||= 'fr' }}">
             {{ p.title }}
         </a>
     {% endif %}

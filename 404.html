@@ -1,7 +1,33 @@
 ---
-layout: default
----
-<meta name="robots" content="noindex">
-<h1>Ooops... <small>La page demandée n'existe pas.</small></h2>
 
-<p>En informatique, l’erreur 404 est un code d’erreur du protocole de communication HTTP sur le réseau Internet. Ce code est renvoyé par un serveur HTTP pour indiquer que la ressource demandée (généralement une page web) n’existe pas. Certains navigateurs web affichent alors le message « 404 File Not Found » (de l’anglais signifiant « fichier introuvable ») à destination de l’internaute. -- <a href="http://fr.wikipedia.org/wiki/HTTP_404">Wikipedia</a></p>
+---
+
+{% include head.html %}
+<meta name="robots" content="noindex">
+<body>
+<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap"> 
+    <!-- Add header and nav here  -->
+    
+        <!--[if lt IE 8]>
+            <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
+        <![endif]-->
+            
+     
+      {% include header.html %}
+        <div class="row">
+          <section role="main">
+            <div class="small-12 columns">
+              <h1>Ooops... <small>La page demandée n'existe pas.</small></h2>
+
+              <p>En informatique, l’erreur 404 est un code d’erreur du protocole de communication HTTP sur le réseau Internet. Ce code est renvoyé par un serveur HTTP pour indiquer que la ressource demandée (généralement une page web) n’existe pas. Certains navigateurs web affichent alors le message « 404 File Not Found » (de l’anglais signifiant « fichier introuvable ») à destination de l’internaute. -- <a href="http://fr.wikipedia.org/wiki/HTTP_404">Wikipedia</a></p>
+            </div>
+          </section>
+        </div>
+
+      {% include footer.html %}
+      
+    </div>
+</div>
+
+{% include foot.html %}

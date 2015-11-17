@@ -11,7 +11,12 @@
 }
 
 .brand {
-    line-height: 2em;
+    
+}
+
+.brand hr {
+  border-width: 5px;
+  border-color: #EE8039;
 }
 
 .current {
