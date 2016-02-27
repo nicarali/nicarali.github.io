@@ -26,13 +26,20 @@ La comunidad indigena
 La COMUNIDAD INDIGENA DE SEBACO (CIS) est une organisation officielle autorisée par l’état du Nicaragua.
 La CIS conduit ses activités avec les objectifs suivants :
 
-1.   Promouvoir la défense légale de la population indigène et ses droits .
+1.   Promouvoir la défense légale de la population indigène et ses droits
+
 2.   Promouvoir la réalisation des droits sociaux du peuple indigène de Sebaco, en gérant la prestation et l’assurance des services de base et tout ce qui implique l’amélioration des conditions de vie
+
 3.   Promouvoir, sauvegarder et divulguer l’histoire de notre peuple indigène
+
 4.   Travailler en harmonie, pour leur unité, avec les autres peuples indigènes, travail basé sur la reconnaissance de leurs propres réalités, traditions et intérêts pour promouvoir la réalisation de leurs droits
+
 5.   Promouvoir la défense et la protection des ressources naturelles et le milieu ambiant dans les territoires des peuples indigènes
-6.   Promouvoir l’égalité des chances entre les hommes et les femmes de tous âges.
+
+6.   Promouvoir l’égalité des chances entre les hommes et les femmes de tous âges
+
 7.   Promouvoir les relations de travail avec les institutions de l’Etat au niveau municipal comme avec les organismes non gouvernementaux nationaux et internationaux et agences de coopération, au moyen de programmes, plans et projets au bénéfice des peuples indigènes
+
 8.   Promouvoir l’administration adéquate des ressources et améliorer leur utilisation et leur potentiel pour améliorer les conditions de vie du peuple indigène
 
 La CIS représentée par son président Victor Manuel CHAVARRIA DAVILA et NICARALI ont signé en Aout 2014 une convention de partenariat pour la création d’une bibliothèque mobile pour les populations indigènes de 16 communautés.

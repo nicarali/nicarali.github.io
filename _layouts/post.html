@@ -10,7 +10,7 @@ permalink: /news/:year/:month/:title
       {{ page.title }}
       </span>
         <small>
-          <meta itemprop="datePublished" content="{{ page.date }}">
+          <meta itemprop="datePublished" content="{{ page.date }}" />
             {% include date.html %}
         </small>
     </h1>
@@ -21,9 +21,9 @@ permalink: /news/:year/:month/:title
         <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
         </figure>
     {% else %}
-      <meta itemprop="image" content="{{ site.url }}/img/logo-tr.png">
+      <meta itemprop="image" content="{{ site.url }}/img/logo-tr.png" />
     {% endif %}
-    <meta itemprop="description" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}"
+    <meta itemprop="description" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}" />
     {{ content }}
     </div>
 </div>

@@ -108,7 +108,7 @@ figure ~ figure {
     }
 }
 
-/*------- LIST ---------*/
+/*------- LISTS ---------*/
 
 .blog-content ul,
 .blog-content ol {
@@ -129,7 +129,7 @@ figure ~ figure {
   position: relative;
   padding-left: 0.5em;
   min-height: 1.5em;
-  text-indent: -0.4em;
+  /* text-indent: -0.4em; */
 }
 
 .blog-content ul > li:before {    
@@ -154,6 +154,12 @@ figure ~ figure {
   line-height: 1;
   text-align: right;
   vertical-align: middle;
+}
+
+.blog-content ul > li > p,
+.blog-content ol > li > p {
+  margin-bottom: 0.75em;
+  margin-right: 1em;
 }
 
 .unstyled-list li {
