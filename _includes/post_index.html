@@ -24,7 +24,7 @@
           </small>
         </h3>
         <p itemprop="description">
-          {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 50 }}
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}
         </p>
       </a>
       <p class="text-right pan man">

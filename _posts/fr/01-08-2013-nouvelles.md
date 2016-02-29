@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
 cover_url: http://nicarali.files.wordpress.com/2010/08/cimg0668.jpg?w=570&h=427

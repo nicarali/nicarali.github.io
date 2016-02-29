@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: post
 title: Pourquoi le Nicaragua ?
 cover_url: http://nicarali.files.wordpress.com/2010/08/mapa2.jpg?w=257&h=228

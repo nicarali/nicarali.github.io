@@ -1,6 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
+cover_url:
 ---
 
 Les livres achetés en Espagne et en France au deuxième semestre 2013 viennent d’être acheminés grâce au groupe d’élèves parrainé par René Dufour.

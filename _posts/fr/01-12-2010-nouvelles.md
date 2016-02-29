@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
 cover_url: http://nicarali.files.wordpress.com/2010/08/stand-gorda2-27_11_10-111.jpg?w=199&h=300

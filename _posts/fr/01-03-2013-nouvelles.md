@@ -1,6 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Presque trois ans...
+cover_url:
 ---
 
 Notre association va maintenant sur ses trois ans… Nous sommes fiers des résultats de notre action. L’année 2012 nous a été profitable: grâce aux cotisations, aux dons, aux ventes, notamment de livres qui nous ont été donnés, aux subventions de la Mairie de Strasbourg, du Conseil Général du Bas-Rhin et du Conseil Régional d’Alsace, à notre participation à différentes activités associatives, nous avons pu réunir assez d’argent pour équiper  la bibliothèque d’un solide fonds en livres. Nous pourrons aussi installer des sanitaires qui offriront un plus grand confort aux usagers. 

@@ -1,6 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
+cover_url:
 ---
 
 Nous avons été présents au Salon des Associations qui s’est déroulé les 22 et 23 septembre au Parc de la Citadelle à Strasbourg. 

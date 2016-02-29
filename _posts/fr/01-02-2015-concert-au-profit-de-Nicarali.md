@@ -1,8 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Concert au profit de Nicarali
 cover_url: https://nicarali.files.wordpress.com/2010/08/affiche-concert-nicarali-4.png?w=340&h=474
-cover_title: L'affiche du concert
 ---
 
 Notre projet de Bibliothèque Mobile va démarrer le 1 mars. Une phase d’essai a eu lieu avant les dernières vacances scolaires sur 4 communautés indigènes. En 2015 nous allons financer l’achat de 1 500 livres (1 100 livres scolaires et 400 pour les enfants davantage destinés au plaisir de lire).

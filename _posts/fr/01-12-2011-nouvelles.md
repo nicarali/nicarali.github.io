@@ -1,6 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
+cover_url:
 ---
 
 Les dossiers de demande de subvention que nous avons présentés à la Mairie de la Ville de Strasbourg au Conseil Général du Bas- Rhin et au Conseil Régional  ont été considérés comme intéressants, et ces  organismes ont décidé d’appuyer  notre projet. Merci à eux.

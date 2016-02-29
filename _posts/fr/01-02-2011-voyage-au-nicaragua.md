@@ -1,8 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Voyage au Nicaragua
 cover_url: http://nicarali.files.wordpress.com/2010/08/nicaragua-2011-133.jpg?w=300&h=225
-cover_title: La bibliothèque
 ---
 
 Nous sommes arrivés à Chagüitillo fin janvier et avons profité de l’amitié et  la complicité de René et Annick Dufour, qui font depuis longtemps l’aller et retour entre Vaulx-en-Velin, Lyon et Chagüitillo, dans la solidarité avec la communauté,  et qui nous ont accueilli chez eux avec une rare générosité  (les petit-déjeuners: bananes et  fromage frit de René,  jus de fruits frais d’Annick…) tout le temps de notre séjour.

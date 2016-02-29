@@ -1,8 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Soirée latino-américaine
 cover_url: http://nicarali.files.wordpress.com/2010/08/sandrine-y-loic.png?w=185&h=300
-cover_title: Sandrine y Loic
 ---
 
 Nous avons organisé une soirée, le 3 décembre 2011, elle s’est déroulée au Centre Culturel du Fossé des Treize, à Strasbourg.

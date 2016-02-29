@@ -1,8 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Dernières nouvelles
 cover_url: http://nicarali.files.wordpress.com/2010/08/p1030009.jpg?w=200&h=300
-cover_title: Carmen DAVILA LAZO
 ---
 
 Nous avons la tristesse de vous faire part du décès subit, le 19 mai, de Carmen DAVILA LAZO, Présidente de l’association ADCH, notre partenaire à Chagüitillo.

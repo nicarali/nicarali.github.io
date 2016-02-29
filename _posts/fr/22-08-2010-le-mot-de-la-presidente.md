@@ -1,6 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Le mot de la présidente
+cover_url:
 ---
 
 Ma rencontre avec l’Amérique latine, faite à l’adolescence, s’est depuis enrichie de mon expérience dans l’enseignement de l’espagnol. Les voyages se sont répétés, en Amérique centrale ces derniers années, pour à chaque fois en connaître un peu plus. Sans but précis, au gré des rencontres, des envies, des coups de cœur.

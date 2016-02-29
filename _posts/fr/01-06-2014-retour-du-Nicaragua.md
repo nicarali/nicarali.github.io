@@ -1,8 +1,8 @@
 ---
+lang: fr
 layout: post
 title: Retour du Nicaragua
 cover_url: http://nicarali.files.wordpress.com/2010/08/cacao-lecture.jpg?w=950&h=533
-cover_title: Les enfants
 ---
 
 Nous sommes revenus (Laurence, la trésorière de Nicarali, Gérard le bénévole fondamental et Claudine, la présidente) il y a quelques jours de deux semaines au Nicaragua. A Chagüitillo nous avons fait le point sur le fonctionnement de la bibliothèque, nous avons rencontré les responsables locaux et discuté de nos actions à venir. Et nous sommes allés sur l’île d’Ometepe, où nous avons des demandes pour un projet identique.

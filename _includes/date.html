@@ -1,37 +1,33 @@
-{% assign m = page.date | date: "%-m" %}
-
+{% assign m = page.date | date: "%m" %}
 {% if page.lang == 'fr' %}
 {% case m %}
-  {% when '1' %}janvier
-  {% when '2' %}février
-  {% when '3' %}mars
-  {% when '4' %}avril
-  {% when '5' %}mai
-  {% when '6' %}juin
-  {% when '7' %}juillet
-  {% when '8' %}août
-  {% when '9' %}septembre
+  {% when '01' %}janvier
+  {% when '02' %}février
+  {% when '03' %}mars
+  {% when '04' %}avril
+  {% when '05' %}mai
+  {% when '06' %}juin
+  {% when '07' %}juillet
+  {% when '08' %}août
+  {% when '09' %}septembre
   {% when '10' %}octobre
   {% when '11' %}novembre
   {% when '12' %}décembre
 {% endcase %}
-{{ page.date | date: "%Y"}}
-{% endif %}
-
-{% if page.lang == 'es' %}
+{% elsif page.lang == 'es' %}
 {% case m %}
-    {% when '1' %}enero
-    {% when '2' %}febrero
-    {% when '3' %}marzo
-    {% when '4' %}abril
-    {% when '5' %}mayo
-    {% when '6' %}junio
-    {% when '7' %}julio
-    {% when '8' %}agosto
-    {% when '9' %}septiembre
+    {% when '01' %}enero
+    {% when '02' %}febrero
+    {% when '03' %}marzo
+    {% when '04' %}abril
+    {% when '05' %}mayo
+    {% when '06' %}junio
+    {% when '07' %}julio
+    {% when '08' %}agosto
+    {% when '09' %}septiembre
     {% when '10' %}octubre
     {% when '11' %}noviembre
     {% when '12' %}diciembre
 {% endcase %}
-{{ page.date | date: "%Y"}}
 {% endif %}
+{{ page.date | date: "%Y"}}
