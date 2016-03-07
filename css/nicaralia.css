@@ -7,11 +7,13 @@
 .logo {
     width: 2em;
     height: auto;
-    float: left;
+    display: inline;
 }
 
 .brand {
-    
+  display: inline;
+  line-height: 100%;
+  vertical-align: middle;
 }
 
 .brand hr {

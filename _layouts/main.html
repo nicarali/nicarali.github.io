@@ -4,11 +4,13 @@ description: Bienvenue sur le site Nicarali
 keywords: Nicarali, Nicaragua, bibliothèque
 ---
 <div class="blog-content">
+  {% if page.title != "Accueil" %}
     <h1>
         <span class="brand show-for-large-up mbl">
         {{ page.section }}
         <hr class="man pan">
         </span>
     </h1>
+  {% endif %}
   {{ content }}
 </div>
