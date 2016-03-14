@@ -1,34 +1,66 @@
 {% assign posts=site.posts | where: "lang", page.lang %}
 <div>
   {% for post in posts | limit: 10  %}
-  <div itemscope itemtype="http://schema.org/Article" class="panel row mam">    
+  <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"{{site.url}}/{{post.url}}"
+  },
+  "headline": "{{post.title}}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{% if post.cover_url %}{{post.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}",
+    "height": 200, 
+    "width": 1250
+  },
+  "datePublished": "{{post.date}}",
+  "dateModified": "{{post.date}}",
+  "author": {
+    "@type": "Organization",
+    "name": "Nicarali"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Nicarali",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/img/logo-94-60.png",
+      "width": 94,
+      "height": 60
+    }
+  },
+  "description": "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}"
+}
+</script>
+  <div class="panel row mam">    
     {% if post.cover_url %}  
     <div class="small-4 columns">
-      <img itemprop="image" class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
+      <img class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
     </div>
     <div class="small-8 columns expand">
-    {% else %}
-    <meta itemprop="image" content="{{ site.url }}/img/logo-tr.png">
+    {% else %}    
     <div class="small-12 columns">
     {% endif %}
       <a href="{{ post.url }}">
         <h3>
-          <span itemprop="headline">
+          <span>
           {{ post.title }} 
           </span>
           <small class="secondary">
             <br />
             <i class="fa fa-calendar"></i>
-            <meta itemprop="datePublished" content="{{ post.date }}">
             {{ post.date | date: "%m/%Y" }}
           </small>
         </h3>
-        <p itemprop="description">
+        <p>
           {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}
         </p>
       </a>
       <p class="text-right pan man">
-        <a itemprop="url" class="button secondary tiny round" href="{{ post.url }}">
+        <a class="button secondary tiny round" href="{{ post.url }}">
           {% if page.lang == 'es' %}
           Leer más
           {% else %}

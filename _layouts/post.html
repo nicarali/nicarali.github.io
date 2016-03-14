@@ -3,25 +3,58 @@ layout: default
 section: Actualités
 ---
 
-<div itemscope itemtype="http://schema.org/Article">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"{{site.url}}/{{page.url}}"
+  },
+  "headline": "{{page.title}}",
+  "image": {
+    "@type": "ImageObject",
+    "url": ""{% if page.cover_url %}{{page.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}"",
+    "height": 200, 
+    "width": 1250
+  },
+  "datePublished": "{{page.date}}",
+  "dateModified": "{{page.date}}",
+  "author": {
+    "@type": "Organization",
+    "name": "Nicarali"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Nicarali",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/img/logo-94-60.png",
+      "width": 94,
+      "height": 60
+    }
+  },
+  "description": "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}"
+}
+</script>
+
+<div>
     <h1>
-      <span itemprop="headline">
+      <span>
       {{ page.title }}
       </span>
         <small>
           {% include date.html %}
         </small>
     </h1>
-    <div class="blog-content" itemprop="articleBody">
+    <div class="blog-content">
     {% if page.cover_url %}
         <figure class="cover-wrap">
-        <img itemprop="image" class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
+        <img class="cover" src="{{ page.cover_url }}" alt="{{ page.cover_title }}" />
         <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
         </figure>
-    {% else %}
-      <meta itemprop="image" content="{{ site.url }}/img/logo-tr.png" />
     {% endif %}
-    <meta itemprop="description" content="{{ page.excerpt | strip_html | strip }}" />
+      
     {{ content }}
     </div>
 </div>

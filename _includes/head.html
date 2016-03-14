@@ -21,6 +21,18 @@
     <!-- Ah, the favicon.
     ================================================== -->
     <link rel="shortcut icon" href="/img/logo-tr.png">
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "{{ site.url }}",
+      "name": "{{ site.name }}",
+      "logo": "{{ site.url }}/img/logo-tr.png",
+      "sameAs": [
+        "http://www.facebook.com/{{ site.facebook }}"
+      ]
+    }
+    </script>
 
     <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
     Twitter: https://dev.twitter.com/docs/cards/types/summary-card
