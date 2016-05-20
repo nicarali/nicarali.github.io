@@ -10,6 +10,16 @@ icon: fa-group
 
 **L’association NICARALI**, sise à Strasbourg, est née en 2010 du constat fait par ses membres fondateurs de la modicité des ressources dont dispose le Nicaragua pour l’éducation, la  culture écrite et la lecture. L’association se propose  dans ce but de travailler main dans la main avec l’association nicaraguayenne **ADCH**, initiatrice du projet de bibliothèque
 
+{::options parse_block_html="true" /}
+<hr />
+<div class="small-12 medium-6 medium-offset-3 columns">
+<div class="flex-video widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQEHqTqnJs4" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<hr />
+{::options parse_block_html="false" /}
+
 L’association NICARALI se compose de membres bénévoles, adhérents et  de membres d’honneur. Elle est gérée par un bureau composé de trois personnes élu pour deux ans par l’assemblée générale.
 
 + Claudine MULLER, présidente.
