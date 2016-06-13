@@ -13,7 +13,7 @@ icon: fa-group
 {::options parse_block_html="true" /}
 <hr />
 <div class="small-12 medium-6 medium-offset-3 columns">
-<small>Diaporama présentant l'activité de notre association au Nicarali :</small>
+<small>Diaporama présentant l'activité de l'association Nicarali au Nicaragua :</small>
 <div class="flex-video widescreen">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQEHqTqnJs4" frameborder="0" allowfullscreen></iframe>
 </div>
