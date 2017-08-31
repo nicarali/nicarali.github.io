@@ -18,7 +18,7 @@ index: 0
             <a href="">&laquo;</a>
         </li>
         {% endif %}
-        
+
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
         <li class="current">
@@ -40,7 +40,7 @@ index: 0
         </li>
         {% endif %}
         {% endfor %}
-        
+
         {% if paginator.next_page %}
         <li class="arrow">
             <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
@@ -55,7 +55,7 @@ index: 0
 {% endif %}
 
 <ul class="unstyled-list">
-{% for post in paginator.posts %}
+{% for post in site.news %}
   <li>
     <a href="{{ post.url }}">
       <i class="fa fa-newspaper-o"></i>

@@ -1,4 +1,4 @@
-{% assign posts=site.posts | where: "lang", page.lang %}
+{% assign posts=site.news | where: "lang", page.lang %}
 <div>
   {% for post in posts | limit: 10  %}
   <script type="application/ld+json">
@@ -13,7 +13,7 @@
   "image": {
     "@type": "ImageObject",
     "url": "{% if post.cover_url %}{{post.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}",
-    "height": 200, 
+    "height": 200,
     "width": 1250
   },
   "datePublished": "{{post.date}}",
@@ -35,19 +35,19 @@
   "description": "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}"
 }
 </script>
-  <div class="panel row mam">    
-    {% if post.cover_url %}  
+  <div class="panel row mam">
+    {% if post.cover_url %}
     <div class="small-4 columns">
       <img class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
     </div>
     <div class="small-8 columns expand">
-    {% else %}    
+    {% else %}
     <div class="small-12 columns">
     {% endif %}
       <a href="{{ post.url }}">
         <h3>
           <span>
-          {{ post.title }} 
+          {{ post.title }}
           </span>
           <small class="secondary">
             <br />
@@ -70,12 +70,12 @@
       </p>
     </div>
   </div>
-  {% endfor %}  
+  {% endfor %}
   <a href="/archive" class="button radius secondary expand">
     {% if page.lang == 'es' %}
     Ver todos los artículos
     {% else %}
     Voir tous les articles
     {% endif %}
-  </a  
+  </a
 </div>

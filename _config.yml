@@ -19,7 +19,9 @@ gems:
   - jekyll-paginate
 paginate: 20
 paginate_path: "/archive/page:num"
-
+collections:
+  news:
+    output: true
 defaults:
   -
     scope:
@@ -29,13 +31,13 @@ defaults:
       lang: "fr"
   -
     scope:
-      path: "_posts/fr"
+      path: "_news/fr"
       type: "posts"
     values:
       lang: "fr"
   -
     scope:
-      path: "_posts/es"
+      path: "_news/es"
       type: "posts"
-    values:      
+    values:
       lang: "es"
