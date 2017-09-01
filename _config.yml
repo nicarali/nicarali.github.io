@@ -11,8 +11,9 @@ author : drventisette
 analytics : UA-67806526-1
 year : 2015
 markdown : kramdown
-exclude :
+exclude:
   - node_modules
+  - bower_components/*.md
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
