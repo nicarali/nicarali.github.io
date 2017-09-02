@@ -1,41 +1,41 @@
 {% assign posts=site.news | where: "lang", page.lang %}
-<div>
-  {% for post in posts | sort : "date" | reverse | limit: 10  %}
-  <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "mainEntityOfPage":{
-    "@type":"WebPage",
-    "@id":"{{site.url}}/{{post.url}}"
-  },
-  "headline": "{{post.title}}",
-  "image": {
-    "@type": "ImageObject",
-    "url": "{% if post.cover_url %}{{post.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}",
-    "height": 200,
-    "width": 1250
-  },
-  "datePublished": "{{post.date}}",
-  "dateModified": "{{post.date}}",
-  "author": {
-    "@type": "Organization",
-    "name": "Nicarali"
-  },
-   "publisher": {
-    "@type": "Organization",
-    "name": "Nicarali",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.url }}/img/logo-94-60.png",
-      "width": 94,
-      "height": 60
+<div class="sortable">
+  {% for post in posts | sort : "date" | reverse %}
+  <div class="panel row mam sortable-item" data-sort="{{ post.id | slice: 9, 10 | split: '-' | reverse | join: '/' }}">
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"{{site.url}}/{{post.url}}"
+      },
+      "headline": "{{post.title}}",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{% if post.cover_url %}{{post.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}",
+        "height": 200,
+        "width": 1250
+      },
+      "datePublished": "{{post.date}}",
+      "dateModified": "{{post.date}}",
+      "author": {
+        "@type": "Organization",
+        "name": "Nicarali"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Nicarali",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/img/logo-94-60.png",
+          "width": 94,
+          "height": 60
+        }
+      },
+      "description": "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}"
     }
-  },
-  "description": "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | strip |  truncatewords: 50 }}"
-}
-</script>
-  <div class="panel row mam">
+    </script>
     {% if post.cover_url %}
     <div class="small-4 columns">
       <img class="cover-thumb radius" src="{{ post.cover_url }}" title="{{ post.cover_title }}" />
@@ -52,7 +52,7 @@
           <small class="secondary">
             <br />
             <i class="fa fa-calendar"></i>
-            {{ post.date | date: "%m/%Y" }}
+            {{ post.id | slice: 9, 10 | replace: "-", "/" }}
           </small>
         </h3>
         <p>
@@ -71,11 +71,13 @@
     </div>
   </div>
   {% endfor %}
-  <a href="/archive" class="button radius secondary expand">
-    {% if page.lang == 'es' %}
-    Ver todos los artículos
-    {% else %}
-    Voir tous les articles
-    {% endif %}
-  </a
+  <div class="sortable-item" data-sort="0">
+    <a href="/archive" class="button radius secondary expand">
+      {% if page.lang == 'es' %}
+      Ver todos los artículos
+      {% else %}
+      Voir tous les articles
+      {% endif %}
+    </a>
+  </div>
 </div>

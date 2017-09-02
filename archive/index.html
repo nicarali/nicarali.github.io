@@ -54,16 +54,16 @@ index: 0
 </div>
 {% endif %}
 
-<ul class="unstyled-list">
+<ul class="unstyled-list sortable">
 {% assign sorted = site.news | sort: 'date' | reverse %}
 {% for post in sorted %}
-  <li>
+<li class="sortable-item" data-sort="{{ post.id | slice: 9, 10 | split: '-' | reverse | join: '/' }}">
     <a href="{{ post.url }}">
       <i class="fa fa-newspaper-o"></i>
       <small>{{ post.lang | upcase }}</small>
       |
       <strong> {{ post.title }}</strong>
-      <small>{{ post.date | date: "%m/%Y" }}</small>
+      <small>{{ post.id | slice: 9, 10 | replace: "-", "/" }}</small>
     </a>
   </li>
 {% endfor %}

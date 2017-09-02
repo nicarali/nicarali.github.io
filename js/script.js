@@ -24,6 +24,9 @@ var ImgsToFigures = {
     }
   }
 };
+var sort_li = function(a, b) {
+  return ($(b).data('sort')) > ($(a).data('sort')) ? 1 : -1;
+};
 
 // Foundation JavaScript
 // Documentation can be found at: http://foundation.zurb.com/docs
@@ -31,4 +34,5 @@ $(document).foundation();
 
 $(document).ready(function(){
     ImgsToFigures.convert($('.blog-content'));
+    $(".sortable .sortable-item").sort(sort_li).appendTo('.sortable');
 });

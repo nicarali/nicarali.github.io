@@ -15,7 +15,7 @@ section: Actualités
   "image": {
     "@type": "ImageObject",
     "url": "{% if page.cover_url %}{{page.cover_url}}{% else %}{{site.url}}/{{site.cover}}{% endif %}",
-    "height": 200, 
+    "height": 200,
     "width": 1250
   },
   "datePublished": "{{page.date}}",
@@ -44,7 +44,7 @@ section: Actualités
       {{ page.title }}
       </span>
         <small>
-          {% include date.html %}
+          {{ page.id | slice: 9, 10 | replace: "-", "/" }}
         </small>
     </h1>
     <div class="blog-content">
@@ -54,18 +54,18 @@ section: Actualités
         <figcaption class="show-for-large-up">{{ page.cover_title }}</figcaption>
         </figure>
     {% endif %}
-      
+
     {{ content }}
     </div>
 </div>
 <div class="row">
     <!-- Social buttons -->
-    <div class="hide-for-medium-down">    
+    <div class="hide-for-medium-down">
         <!-- Side buttons -->
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-563709ce45abeda0" async="async"></script>    
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-563709ce45abeda0" async="async"></script>
     </div>
     <div class="show-for-medium-down small-10 small-centered columns">
-        <hr />    
+        <hr />
         <h4>Partagez cet article :</h4>
         <!-- Bottom buttons -->
         <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-563709ce45abeda0" async="async"></script>
