@@ -14,7 +14,7 @@ markdown : kramdown
 exclude:
   - node_modules
   - bower_components/*.md
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate

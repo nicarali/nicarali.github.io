@@ -1,6 +1,6 @@
 {% assign posts=site.news | where: "lang", page.lang %}
 <div>
-  {% for post in posts | limit: 10  %}
+  {% for post in posts | sort : "date" | reverse | limit: 10  %}
   <script type="application/ld+json">
 {
   "@context": "http://schema.org",

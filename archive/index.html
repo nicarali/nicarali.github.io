@@ -55,7 +55,8 @@ index: 0
 {% endif %}
 
 <ul class="unstyled-list">
-{% for post in site.news %}
+{% assign sorted = site.news | sort: 'date' | reverse %}
+{% for post in sorted %}
   <li>
     <a href="{{ post.url }}">
       <i class="fa fa-newspaper-o"></i>
