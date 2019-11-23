@@ -30,7 +30,7 @@ Pourquoi le Nicaragua ?
 
 ![L'Amérique Centrale](http://nicarali.files.wordpress.com/2010/08/mapa2.jpg?w=257&h=228){: .left }
 
-La population du Nicaragua est très jeune, plus de la moitié de la population a moins de vingt ans. 56% de la population enfantine vit dans la pauvreté ou l’extrême pauvreté (le quart  souffre de dénutrition chronique). Plus de 600.000 enfants de moins de quinze ans travaillent pour participer au budget familial.  
+La population du Nicaragua est très jeune, plus de la moitié de la population a moins de vingt ans. 56% de la population enfantine vit dans la pauvreté ou l’extrême pauvreté (le quart souffre de dénutrition chronique). Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial.    
 [Lire la suite...](/news/fr/23-08-2010-pourquoi-le-nicaragua.html)
 
 
