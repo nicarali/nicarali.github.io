@@ -13,7 +13,7 @@ Pourquoi ?
 
 ![Peinture murale à Chagüitillo](http://nicarali.files.wordpress.com/2010/08/img11.jpg?w=500&h=332){: .right }
 
-En France, les projets de solidarité envers les pays plus démunis vont surtout vers les pays africains. Une histoire commune particulière, les liens que cette histoire a tissés, une communauté de langue expliquent cette préférence presque naturelle. Aussi l’Amérique hispanique n’apparaît-elle pas comme une priorité aux yeux des français. C’est une région du monde, et particulièrement l’Amérique centrale, qui est bien mal connue ici, qui ne fait l’actualité chez nous que lors de tremblements de terre, d’éruptions volcaniques ou, hélas de plus en plus fréquemment d’ouragans dévastateurs. Pourtant ces petits pays souffrent de ce désintérêt, encore accentué quand toute la communauté internationale se mobilise face à des tragédies de l’ampleur de celle de Haïti en 2010 par exemple. Or, il nous semble, à nous, membres fondateurs de NICARALI, qu’il nous faut penser au développement des populations démunies à moyen et à long terme, en oeuvrant pour *un accès efficace à l’éducation et à la culture par la lecture*.
+En France, les projets de solidarité envers les pays plus démunis vont surtout vers les pays africains. Une histoire commune particulière, les liens que cette histoire a tissés, une communauté de langue expliquent cette préférence presque naturelle. Aussi l’Amérique hispanique n’apparaît-elle pas comme une priorité aux yeux des français. C’est une région du monde, et particulièrement l’Amérique centrale, qui est bien mal connue ici, qui ne fait l’actualité chez nous que lors de troubles politiques, de tremblements de terre, d’éruptions volcaniques ou, hélas de plus en plus fréquemment d’ouragans dévastateurs. Ces petits pays souffrent de ce désintérêt, dans un contexte international de plus en plus difficile. « La réduction de la pauvreté et des inégalités, la lutte contre les violences faites aux femmes, la gestion des risques et la préparation aux catastrophes, ainsi que l’adaptation au changement climatique demeurent des défis importants pour le développement du pays » ([source Oxfam](https://www.oxfam.org/fr/decouvrir/pays/nicaragua)). Or, il nous semble, à nous, membres fondateurs de NICARALI, qu’il nous faut penser au développement des populations démunies à moyen et à long terme, en oeuvrant pour *un accès efficace à l’éducation et à la culture par la lecture*.
 
 {::options parse_block_html="true" /}
 <div class="panel callout radius">
@@ -30,7 +30,7 @@ Pourquoi le Nicaragua ?
 
 ![L'Amérique Centrale](http://nicarali.files.wordpress.com/2010/08/mapa2.jpg?w=257&h=228){: .left }
 
-La population du Nicaragua est très jeune, plus de la moitié de la population a moins de vingt ans. 56% de la population enfantine vit dans la pauvreté ou l’extrême pauvreté (le quart  souffre de dénutrition chronique). Plus de 600.000 enfants de moins de quinze ans travaillent pour participer au budget familial.  
+La population du Nicaragua est très jeune, plus de la moitié de la population a moins de vingt ans. 56% de la population enfantine vit dans la pauvreté ou l’extrême pauvreté (le quart souffre de dénutrition chronique). Plus de 600 000 enfants de moins de quinze ans travaillent pour participer au budget familial.    
 [Lire la suite...](/news/fr/23-08-2010-pourquoi-le-nicaragua.html)
 
 
