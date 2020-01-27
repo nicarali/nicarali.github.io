@@ -8,7 +8,7 @@ icon: fa-group
 
 ![Perico](http://nicarali.files.wordpress.com/2010/08/perico.png?w=950){: .right}
 
-**L’association NICARALI**, sise à Strasbourg, est née en 2010 du constat fait par ses membres fondateurs de la modicité des ressources dont dispose le Nicaragua pour l’éducation, la  culture écrite et la lecture. L’association se propose  dans ce but de travailler main dans la main avec l’association nicaraguayenne **ADCH**, initiatrice du projet de bibliothèque
+**L’association NICARALI**, sise à Strasbourg, est née en 2010 du constat fait par ses membres fondateurs de la modicité des ressources dont dispose le Nicaragua pour l’éducation, la culture écrite et la lecture. L’association s’est proposé dans ce but de travailler main dans la main avec des associations locales et des organismes officiels . Nicarali fournit l’équipement des bibliothèques: mobilier, livres (scolaires et autres) matériel informatique. Elle assure la formation des bibliothécaires, un suivi des activités, le renouvellement des collections, et une aide personnalisée assurée par des volontaires du Service Civique français. Les partenaires locaux s’engagent à assurer le salaire des bibliothécaires ainsi que les frais liés au fonctionnement des bibliothèques.
 
 {::options parse_block_html="true" /}
 <hr />
@@ -27,8 +27,6 @@ L’association NICARALI se compose de membres bénévoles, adhérents et  de me
 + Jean-Sébastien PIETRI, secrétaire
 + Laurence BEGUIN, trésorière
 
-NICARALI souhaite devenir le premier mécène français de cette bibliothèque et envisage diverses actions pour y parvenir.
-
 NICARALI recherche des financements pour mener à bien son projet :
 
 +   par un appel à cotisations
@@ -36,6 +34,6 @@ NICARALI recherche des financements pour mener à bien son projet :
 +   par un appel aux financements publics (subvention, dons, soutien matériel)
 +   par la recherche de financements  privés (dons, parrainage, sponsoring, mécénat)
 +   NICARALI fait une collecte de livres en espagnol, de littérature principalement, mais toutes les oeuvres d’intérêt sont bienvenues
-+   NICARALI collecte également toutes sortes d’objets susceptibles d’être vendus dans des brocantes, ainsi que des livres en français
++   NICARALI collecte également des livres en français destinés à être revendus
 
 *[ADCH]: Asociación para el Desarrollo de Villa Chagüitillo
