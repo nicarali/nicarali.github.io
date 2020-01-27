@@ -39,7 +39,7 @@ Pourquoi des bibliothèques publiques ?
 
 Ainsi malgré les efforts fournis, les carences sont énormes. Or, il nous paraît fondamental d’œuvrer à ce que la population, particulièrement la plus pauvre, c’est-à-dire la plus grande partie, ait accès à la culture écrite. Le Nicaragua est un pays où la culture orale prédomine, une culture riche et précieuse, mais dans le monde d’ aujourd’hui, pour le développement plein de l’être humain, la lecture est un facteur fondamental. On ne peut parler de développement, de démocratie et de participation citoyenne quand une grande partie de la population n’a pas accès à la culture écrite ni au numérique et ne possède pas les outils de base pour y accéder. Le citoyen se doit de chercher à comprendre la réalité par lui-même, et pour cela il faut lire. Pour pouvoir imaginer, il faut avoir accès à la lecture qui ouvre la porte à la connaissance universelle, à la mémoire accumulée de l’humanité.
 
-Pourquoi Chagüitillo ?
+Premier projet: la bibliothèque de Chagüitillo
 ----------------------
 
 ![Classe unique à l'école de Monte Grande](http://nicarali.files.wordpress.com/2010/07/image3.jpg?w=400&h=268){: .right }
