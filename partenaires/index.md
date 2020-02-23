@@ -12,9 +12,10 @@ Nos partenaires en France
 Nous avons pu réaliser notre premier projet de bibliothèque publique à Chagüitillo notamment grâce aux soutiens renouvelés du CONSEIL GENERAL DU BAS-RHIN, du CONSEIL REGIONAL D’ALSACE et de la VILLE DE STRASBOURG.  
 Pour notre projet de bibliothèque mobile pour les communautés indigènes, le CONSEIL GENERAL, le CONSEIL REGIONAL et la VILLE de Strasbourg ont à nouveau soutenu notre action en 2015. L’association alsacienne [JOSSH](http://www.jossh.fr) a participé aussi à notre projet de bibliothèque mobile en finançant l’achat de livres éducatifs sur la santé et l’hygiène ainsi que l’organisation d’ateliers de sensibilisation pour les mères de famille. L’ONG Bibliothèques Sans Frontières, l’organisation Goodeed ainsi que L’Agence des micro-projets nous ont soutenus pour assurer le financement de Bibliothèques Numériques.  
 
-Nous faisons partie du collectif [HUMANIS](http://www.humanis.org) grâce auquel nous pouvons participer à des évènements tels que la Rentrée des associations en septembre, le Village du partage pendant le Marché de Noël à Strasbourg.
+Nous faisons partie du collectif [HUMANIS](http://www.humanis.org) grâce auquel nous pouvons participer à des évènements tels que le *Forum Humani-Terre*, la *Rentrée des Associations*….
 
-Nous avons le soutien de l’association ARTISANS DU MONDE de Strasbourg.
+Nous avons le soutien de l’association ARTISANS DU MONDE de Strasbourg. *Humanis* nous a également soutenus en nous octroyant une bourse en 2017.  
+
 
 Nos partenaires au Nicaragua
 ----------------------------
