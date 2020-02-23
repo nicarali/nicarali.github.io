@@ -10,6 +10,8 @@ Tout le monde peut participer à l'action de Nicarali et :
 
 - **Adhérer à notre association** :  adhérer c’est soutenir l’action de NICARALI. Tout membre de NICARALI acquitte une cotisation d'un montant de **20 euros**, valable l’année civile en cours.
 
+- **Faire un don d'argent** en ligne via la plateforme [HelloAsso](https://www.helloasso.com/associations/nicarali)
+
 - **Faire un don d’argent** par *virement bancaire* ou par *chèque bancaire* à l’ordre de NICARALI envoyé à :
 
     > CREDIT MUTUEL, Strasbourg- St Jean,  2 rue de Maire Kuss  
